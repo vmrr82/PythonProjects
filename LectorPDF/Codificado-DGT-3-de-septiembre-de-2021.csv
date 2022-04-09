@@ -1,0 +1,2928 @@
+NORMA,ART,APT,OPC,PTOS,CALIF,TEXTO_HECHO_INFRINGIDO,"MULTA
+Imp.Rd",RESPONS,COMENTARIO,MATERIA
+CIR LSV,"002
+010","1
+1",5D,0,Leve,"COMPORTARSE INDEBIDAMENTE EN LA CIRCULACIÓN CAUSANDO PELIGRO A LAS PERSONAS. (DEBERÁ INDICARSE DETALLADAMENTE EL COMPORTAMIENTO Y/O EL
+TIPO DE PELIGRO CAUSADO)","100.0
+50.0",Conductor Usuario,,COMPORTA MIENTO INDEBIDO
+CIR LSV,"002
+010","1
+1",5E,0,Leve,"COMPORTARSE INDEBIDAMENTE EN LA CIRCULACIÓN ENTORPECIENDO LA MISMA, CAUSANDO PERJUICIOS Y MOLESTIAS INNECESARIAS A LAS PERSONAS O DAÑOS A LOS BIENES. (DEBERÁ INDICARSE DETALLADAMENTE EL COMPORTAMIENTO Y/O EL TIPO DE PERJUICIO, MOLESTIA O DAÑO CAUSADOS.) ","80.0
+40.0",Conductor Usuario,"NOTA: Tendrían cabida en este supuesto, por ejemplo, circular con el volumen elevado del reproductor de sonido al circular por travesías o vías urbanas, ya que tal conducta puede ""causar una molestia innecesaria a las personas que habitan en los inmuebles cercanos a la vía"".",COMPORTA MIENTO INDEBIDO
+,,,,,,,,,,
+CIR LSV,"003
+010","1
+2",5C,0,Grave 076.- M),"CONDUCIR SIN LA DILIGENCIA
+,PRECAUCIÓN Y NO DISTRACCIÓN NECESARIOS PARA EVITAR TODO DAÑO PROPIO O AJENO  (DEBERÁ DETALLARSE LA CONDUCTA)","200.0
+100.0",Conductor,,CONDUCC. NEGLIGENT E
+CIR LSV,"004
+012","2
+2",5B,0,Leve,"DEPOSITAR O ABANDONAR SOBRE LA VÍA OBJETOS O MATERIAS QUE PUEDAN ENTORPECER LA LIBRE CIRCULACIÓN, PARADA O ESTACIONAMIENTO  (DEBERÁ INDICARSE EL OBJETO O MATERIA QUE CAUSE EL ENTORPECIMIENTO)","80.0
+40.0",Conductor Usuario,"NOTA: Habrá que tener en cuenta, a efectos de traslado al Ministerio Fiscal,los casos en los que los hechos pudieran ser constitutivos de delito previsto en el art. 385  del Código Penal por originar un grave riesgo para la circulación colocando en la vía obstáculos imprevisibles, derramando sustancias deslizantes o inflamables o por cualquier otro
+medio",COMPORTA MIENTO INDEBIDO
+CIR LSV,"005
+012","1
+3",5B,0,Leve,"NO ADOPTAR LAS MEDIDAS NECESARIAS PARA QUE EL RESTO DE USUARIOS PUEDAN ADVERTIR UN OBSTÁCULO O PELIGRO EN LA VÍA POR QUIEN LO HA CREADO. (DEBERÁ INDICARSE EL OBSTÁCULO O
+PELIGRO EXISTENTE)","80.0
+40.0",Conductor Usuario,"NOTA:  Para advertir la presencia en la vía de cualquier obstáculo o peligro creado, el causante del mismo deberá señalizarlo de forma eficaz, tanto de día como de noche (art. 130.3, 140 y 173 RGCir).",SEÑALIZACi ÓN
+CIR LSV,"005
+012","6
+3",5A,0,Leve,"DETENER, PARAR O ESTACIONAR LOS VEHÍCULOS DESTINADOS A LOS SERVICIOS DE URGENCIA, ASISTENCIA MECÁNICA O DE CONSERVACIÓN DE CARRETERAS EN LUGAR DISTINTO DEL FIJADO POR LOS AGENTES DE LA AUTORIDAD RESPONSABLES
+DEL TRÁFICO","80.0
+40.0",Conductor,NOTA: Todas las actuaciones a realizar con este tipo de vehículos deberá regirse por los principios de utilización de los recursos idóneos y estrictamente necesarios en cada caso.,PARADA
+CIR LSV,"006
+012","1
+4",5B,4,Grave 076.- N),"ARROJAR A LA VÍA O EN SUS INMEDIACIONES CUALQUIER OBJETO QUE PUEDA PRODUCIR ACCIDENTES DE CIRCULACIÓN   (DEBERÁ DETALLARSE EL OBJETO
+ARROJADO)","200.0
+100.0",Conductor,"NOTA: Habrá que tener en cuenta, a efectos de traslado al Ministerio Fiscal, los casos en los que los hechos pudieran ser constitutivos de delitos previstos en los artículos 385 ó 351 del Código Penal.",COMPORTA MIENTO INDEBIDO
+CIR LSV,"006
+012","1
+4",5D,0,Grave 076.- N),"ARROJAR A LA VÍA O EN SUS INMEDIACIONES CUALQUIER OBJETO QUE PUEDA PRODUCIR ACCIDENTES DE CIRCULACIÓN. (DEBERÁ DETALLARSE EL OBJETO
+                                                                                                                            ARROJADO.)                                                                                                                                       ","200.0
+100.0",Autor Pasajero,"NOTA: Habrá que tener en cuenta, a efectos de traslado al Ministerio Fiscal, los casos en los que los hechos pudieran ser constitutivos de delitos previstos en los artículos 385 o 351 del Código Penal.",COMPORTA MIENTO INDEBIDO
+CIR LSV,"007
+012","1
+7",5B,0,Grave 076.- O),"CIRCULAR CON UN VEHÍCULO CON NIVELES DE EMISIÓN DE RUIDO SUPERIORES A LOS LÍMITES ESTABLECIDOS POR LAS NORMAS QUE REGULAN ESPECÍFICAMENTE LA MATERIA  (LA COMISIÓN DE LOS HECHOS DESCRITOS EN ESTOS SUPUESTOS SE DENUNCIARÁN POR ESTE PRECEPTO, AUNQUE  EN DIRECTA RELACIÓN CON LO DISPUESTO EN EL ART. 11.19 DEL REGLAMENTO GENERAL
+DE VEHÍCULOS)","200.0
+100.0",Titular Conductor,NOTA: Al perseguir este tipo de infracción deberá contarse con el medio técnico (sonómetro) que permita comprobar los niveles de ruido detectados,EMISIONES
+CIR LSV,"007
+012","1
+7",5C,0,Grave 076.- O),"CIRCULAR CON UN VEHÍCULO EMITIENDO GASES O HUMOS EN VALORES SUPERIORES A LOS LÍMITES ESTABLECIDOS EN LAS NORMAS REGULADORAS DE LOS VEHÍCULOS  (LA COMISIÓN DE LOS HECHOS DESCRITOS EN ESTOS SUPUESTOS SE DENUNCIARÁN POR ESTE PRECEPTO, AUNQUE  EN DIRECTA RELACIÓN CON LO DISPUESTO EN EL ART. 11.19 DEL REGLAMENTO GENERAL
+DE VEHÍCULOS)","200.0
+100.0",Titular Conductor,NOTA: Al perseguir este tipo de infracción deberá contarse con el medio técnico necesario que permita comprobar el nivel de gases o humos detectados,EMISIONES
+CIR LSV,"007
+012","1
+7",5D,0,Grave 076.- O),"CIRCULAR CON UN VEHÍCULO QUE HA SIDO OBJETO DE UNA REFORMA DE IMPORTANCIA NO AUTORIZADA  (LA COMISIÓN DE LOS HECHOS DESCRITOS EN ESTE SUPUESTO SE DENUNCIARÁN POR ESTE PRECEPTO, AUNQUE  EN DIRECTA RELACIÓN CON  LO DISPUESTO EN EL ARTÍCULO 7 DEL REGLAMENTO
+GENERAL DE VEHÍCULOS)","200.0
+100.0",Titular Conductor,,REFORMAS IMPORTAN C.
+CIR LSV,"007
+012","2
+5",5B,0,Grave 076.- O),"CIRCULAR CON UN CICLOMOTOR CON EL ESCAPE LIBRE, SIN LLEVAR INSTALADO EL PRECEPTIVO DISPOSITIVO SILENCIADOR DE EXPLOSIONES O CON UN SILENCIADOR INEFICAZ  (LA COMISIÓN DE LOS HECHOS DESCRITOS EN ESTOS SUPUESTOS SE DENUNCIARÁN POR ESTE PRECEPTO, AUNQUE  EN DIRECTA RELACIÓN CON LO DISPUESTO EN EL ART. 11.19 DEL REGLAMENTO GENERAL
+DE VEHÍCULOS)","200.0
+100.0",Conductor,,EMISIONES
+CIR LSV,"009
+013","1
+2",5E,0,Leve,"TRANSPORTAR EN EL VEHÍCULO RESEÑADO UN NÚMERO DE PERSONAS SUPERIOR AL DE PLAZAS AUTORIZADAS, SIN QUE EL EXCESO DE OCUPACIÓN SUPERE EN UN 50% DICHAS PLAZAS. ( EN TRANSPORTE ESCOLAR Y DE MENORES, SE APLICARÁ LA NORMATIVA ESPECÍFICA SOBRE LA MATERIA (RD 443/2001, DE 27 DE ABRIL, SOBRE CONDICIONES DE SEGURIDAD EN EL TRANSPORTE
+                                                                                                               ESCOLAR Y DE MENORES))","100.0
+50.0",Conductor,"NOTA:  Ej: TURISMO DE 5
+PLAZAS. Hasta 6 ocupantes máx. OTROS TIPOS DE VEHÍCULO DE HASTA 9 PLAZAS: hasta 12
+ocupantes máx. Si el exceso afecta a los movimientos del conductor o a la estabilidad del vehículo se tipificará como infracción al art. 3.1 del RGCir.(conducción negligente)",EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"010
+013","2
+2",5A,0,Leve,"VIAJAR PERSONAS EN UN VEHÍCULO DESTINADO AL TRANSPORTE DE MERCANCÍAS O COSAS EN EL LUGAR RESERVADO A LA CARGA, INCUMPLIENDO LAS CONDICIONES QUE SE ESTABLECEN EN LAS DISPOSICIONES QUE
+REGULAN LA MATERIA","80.0
+40.0",Conductor,"NOTA: No obstante, en los vehículos de transporte de mercancías o cosas, excepcionalmente, podrán viajar personas en el lugar reservado a la carga en las  condiciones que se establecen en las disposiciones que regulan la materia",EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"010
+013","3
+2",5B,0,,"LLEVAR INSTALADA UNA PROTECCIÓN DE LA CARGA QUE PUEDE DAÑAR A LOS OCUPANTES EN CASO DE SER PROYECTADA, EN UN VEHÍCULO AUTORIZADO PARA TRANSPORTAR SIMULTÁNEAMENTE
+PERSONAS Y CARGA","200.0
+SIN REDUC.",Titular Conductor,NOTA: LOS HECHOS DESCRITOS EN ESTOS SUPUESTOS SE DENUNCIARÁN POR EL ARTÍCULO 12.4 DEL REGLAMENTO GENERAL DE VEHÍCULOS,CARGA Y DESCARGA
+CIR LSV,"011
+013","1
+1--",5B,0,Leve,"NO PARAR LO MÁS CERCA POSIBLE DEL BORDE DERECHO DE LA CALZADA EL CONDUCTOR DE UN TRANSPORTE COLECTIVO DE
+PERSONAS","80.0
+40.0",Conductor,,TRANSPOR TE PÚBLICO DE VIAJEROS
+CIR LSV,"011
+013","1
+2",5C,0,Leve,"REALIZAR EL CONDUCTOR DE UN TRANSPORTE COLECTIVO DE PERSONAS, ACTOS QUE LE PUEDAN DISTRAER
+DURANTE LA MARCHA","80.0
+40.0",Conductor,,TRANSPOR TE PÚBLICO DE VIAJEROS
+CIR LSV,"011
+010","2
+2",5B,0,Leve,"NO PROHIBIR LA ENTRADA U ORDENAR LA SALIDA EL CONDUCTOR DE UN VEHÍCULO DESTINADO AL SERVICIO PÚBLICO DE TRANSPORTE COLECTIVO DE PERSONAS, A LOS VIAJEROS QUE VULNEREN LAS PROHIBICIONES
+ESTABLECIDAS","80.0
+40.0",Conductor,,TRANSPOR TE PÚBLICO DE VIAJEROS
+CIR LSV,"012
+013","1
+2",5A,0,Leve,CIRCULAR 2 PERSONAS EN UN CICLO EN CONDICIONES DISTINTAS A LAS REGLAMENTARIAS (ESPECIFICAR EL INCUMPLIMIENTO),"80.0
+40.0",Conductor,"NOTA: No obstante, se podrá transportar a una persona cuando se cumplan ciertos requisitos: que el conductor sea mayor de edad, que la persona transportada sea un menor de hasta 7 años y que utilice un asiento adicional que habrá de
+ser homologado",EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"012
+013","2
+2",5A,0,Leve,CIRCULAR 2 PERSONAS EN EL VEHÍCULO RESEÑADO EN CONDICIONES DISTINTAS A LAS REGLAMENTARIAS (ESPECIFICAR EL INCUMPLIMIENTO),"80.0
+40.0",Conductor,"NOTA: No obstante, en los ciclomotores y motocicletas, además del conductor y, en su caso, del ocupante del sidecar de ésta últimas, puede viajar, siempre que así conste en su licencia o permiso de circulación, un pasajero cumpliendo ciertos requisitos (Ver
+Guía Comentada)",EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"012
+013","2
+5",5B,0,Grave 076.- I),"CIRCULAR CON MENORES DE DOCE AÑOS COMO PASAJEROS DE MOTOCICLETAS O CICLOMOTORES EN CONDICIONES DISTINTAS A LAS REGLAMENTARIAS. (DEBEN TENERSE EN CUENTA LAS EXCEPCIONES REGLAMENTARIAS PARA MAYORES DE 7 AÑOS, CUANDO SEAN CONDUCIDOS POR SU PADRE, MADRE O TUTOR O POR PERSONAS MAYORES DE EDAD POR ELLOS AUTORIZADAS; SIEMPRE Y CUANDO SE HAGA CUMPLIENDO DETERMINADOS REQUISITOS
+)","200.0
+100.0",Conductor,NOTA: (Ver Guía Comentada),EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"012
+013","4
+1--",5A,0,Leve,CIRCULAR  EL VEHÍCULO RESEÑADO ARRASTRANDO UN REMOLQUE EN CONDICIONES DISTINTAS A LAS REGLAMENTARIAS (ESPECIFICAR EL INCUMPLIMIENTO),"80.0
+40.0",Conductor,"NOTA: Las motocicletas, los vehículos de tres ruedas, los ciclomotores y los ciclos y bicicletas podrán arrastrar un remolque o semirremolque siempre que no superen el 50 % de la masa en vacío (MMA) del vehículo tractor y
+se cumplan ciertas condiciones.","REMOLQUE
+de VEHÍCULOS"
+CIR LSV,"014
+012","1-B
+6",5D,0,"Muy grave 077.-
+B)","CIRCULAR CON EL VEHÍCULO RESEÑADO CUYA CARGA HA CAÍDO A LA VÍA, POR SU MAL ACONDICIONAMIENTO, CREANDO GRAVE PELIGRO PARA EL RESTO DE LOS USUARIOS","500.0
+250.0","Titular Conductor Autor
+Responsable","NOTA: Deberán especificarse las concretas circunstancias en que los hechos se han producido, señalando en las mismas si aquellos se debieron a un mal acondicionamiento imputable al conductor o al titular del vehículo objeto de denuncia (en función de la clase, tipo y servicio a que el mismo
+se dedicaba en ese momento)",EMPLAZAMI ENTO PERSONAS/ CARGA
+,,,,,,,,,,
+CIR LSV,"014
+012","1-D
+6",5C,0,Leve,"CIRCULAR CON EL VEHÍCULO RESEÑADO EN EL QUE LA INDEBIDA DISPOSICIÓN DE LA CARGA OCULTA LOS DISPOSITIVOS DE ALUMBRADO O SEÑALIZACIÓN LUMINOSA, PLACAS O DISTINTIVOS OBLIGATORIOS Y LAS ADVERTENCIAS MANUALES DEL CONDUCTOR. (DEBEN ESPECIFICARSE LAS SEÑALES O PLACAS
+OCULTADAS.)","80.0
+40.0",Titular Conductor Autor Responsable,,EMPLAZAMI ENTO PERSONAS/ CARGA
+CIR LSV,"015
+012","6
+6",5A,0,Leve,"NO SEÑALIZAR REGLAMENTARIAMENTE LA CARGA QUE SOBRESALE LONGITUDINALMENTE DEL VEHÍCULO RESEÑADO  (SI LA SEÑAL SE ENCUENTRA EN EL VEHÍCULO EL RESPONSABLE ES EL CONDUCTOR. EN OTRO
+CASO, EL TITULAR.)","80.0
+40.0",Titular Conductor,"NOTA:  En todo caso, la carga que sobresalga por detrás de los vehículos deberá ser señalizada por medio de la señal V-20 a que se refiere el artículo 173 del RGCirc., y cuyas características se establecen en el Anexo XI del RGVeh.",SEÑALIZACi ÓN
+CIR LSV,"015
+010","7
+2",5A,0,Leve,"NO SEÑALIZAR REGLAMENTARIAMENTE LA CARGA QUE SOBRESALE LATERALMENTE DEL GÁLIBO DEL VEHÍCULO RESEÑADO (INDICAR SI LA SEÑAL CORRESPONDIENTE SE
+                                                                                                             ENCUENTRA O NO ACTIVADA)                                                                                                                        ","80.0
+40.0",Titular Conductor,,SEÑALIZACi ÓN
+CIR LSV,"016
+010",-2,5B,0,Leve,"REALIZAR EN LA VÍA OPERACIONES DE CARGA Y DESCARGA OCASIONANDO PELIGRO O PERTURBACIONES GRAVES AL TRÁNSITO DE OTROS USUARIOS  (DEBERÁ INDICARSE EL PELIGRO O LA
+PERTURBACIÓN CAUSADA)","80.0
+40.0",Conductor,,CARGA Y DESCARGA
+CIR LSV,"017
+010","1
+1",5A,0,Leve,"CONDUCIR SIN ADOPTAR LAS PRECAUCIONES NECESARIAS PARA LA SEGURIDAD DE OTROS USUARIOS DE LA VÍA (DEBERÁ INDICARSE  EL HECHO QUE PROVOCÓ LA
+FALTA DE PRECAUCIÓN)","80.0
+40.0",Conductor,NOTA: Los conductores deberán estar en todo momento en condiciones de controlar sus vehículos o animales.,COMPORTA MIENTO INDEBIDO
+CIR LSV,"017
+010","2
+1",5B,0,Leve,"ABANDONAR LA CONDUCCIÓN DE CABALLERÍAS, GANADOS O VEHÍCULOS DE CARGA DE TRACCIÓN ANIMAL, DEJÁNDOLOS MARCHAR LIBREMENTE POR EL CAMINO O DETENERSE EN EL (DEBERÁ INDICARSE EL ANIMAL O VEHÍCULO DE QUE
+                                                                                                                              SE TRATE)                                                                                                                                         ","80.0
+40.0",Conductor,,COMPORTA MIENTO INDEBIDO
+CIR LSV,"018
+013","1
+2",5A,0,Leve,"CONDUCIR EL VEHÍCULO RESEÑADO SIN MANTENER LA PROPIA LIBERTAD DE MOVIMIENTOS  (DEBERÁN
+CONCRETARSE LOS HECHOS)","80.0
+40.0",Conductor,,COMPORTA MIENTO INDEBIDO
+"CIR
+LSV","018
+013","1
+2",5B,0,Leve,CONDUCIR UN VEHÍCULO SIN MANTENER EL CAMPO DE VISIÓN  (DEBERÁN CONCRETARSE LOS HECHOS),"80.0
+40.0",Conductor,,COMPORTA MIENTO INDEBIDO
+CIR LSV,"018
+013","1
+2",5D,0,Leve,"CONDUCIR UN VEHÍCULO SIN
+MANTENER LA POSICIÓN ADECUADA Y QUE LA MANTENGAN EL RESTO DE LOS PASAJEROS  (DEBERÁN CONCRETARSE LOS HECHOS)","80.0
+40.0",Conductor,,COMPORTA MIENTO INDEBIDO
+CIR LSV,"018
+013","1
+2",5E,0,Leve,"CONDUCIR UN VEHÍCULO SIN CUIDAR DE LA ADECUADA COLOCACIÓN DE LOS OBJETOS O ALGÚN ANIMAL TRANSPORTADO PARA QUE NO INTERFIERAN LA CONDUCCIÓN  (DEBERÁN
+CONCRETARSE LOS HECHOS)","80.0
+40.0",Conductor,NOTA: Los animales incontrolados deben ser transportados en recintos adecuados o independientes del usado por los pasajeros.,COMPORTA MIENTO INDEBIDO
+CIR LSV,"018
+013","1
+3",5F,3,Grave 076.- F),"CIRCULAR CON UN VEHÍCULO UTILIZANDO EL CONDUCTOR DISPOSITIVOS VISUALES INCOMPATIBLES CON LA ATENCIÓN PERMANENTE A LA CONDUCCIÓN.  (DEBERÁ ESPECIFICARSE EL
+DISPOSITIVO UTILIZADO)","200.0
+100.0",Conductor,"NOTA: Se considera incompatible con la obligatoria atención permanente a la conducción, el uso por el conductor con el vehículo en movimiento de dispositivos tales como pantallas con acceso a internet, monitores de televisión y
+reproductores de video o DVD.",USO DE DISPOSITIV OS
+CIR LSV,"018
+013","2
+3",5A,3,Grave 076.- F),"CONDUCIR UTILIZANDO CASCOS O AURICULARES CONECTADOS A APARATOS RECEPTORES O REPRODUCTORES DE
+SONIDO","200.0
+100.0",Conductor,NOTA: Deberá especificarse el dispositivo utilizado,USO DE DISPOSITIV OS
+CIR LSV,"018
+013","2
+3",5B,3,Grave 076.- G),"CONDUCIR UTILIZANDO MANUALMENTE EL TELÉFONO MÓVIL O CUALQUIER OTRO DISPOSITIVO INCOMPATIBLE CON LA OBLIGATORIA ATENCIÓN PERMANENTE A LA CONDUCCIÓN.   (DEBERÁ ESPECIFICARSE EL
+DISPOSITIVO UTILIZADO)","200.0
+100.0",Conductor,,USO DE DISPOSITIV OS
+"CIR
+LSV","018
+013","3
+6",5B,0,Grave 076.- M),EMITIR O HACER SEÑALES DE FORMA ENCAMINADA A ELUDIR LA VIGILANCIA DE LOS AGENTES DE TRÁFICO.,"200.0
+100.0",Conductor,NOTA: Deberá especificarse la conducta concretamente detectada.,CONDUCC. NEGLIGENT E
+CIR LSV,"019
+013","1
+2",5A,0,Grave 076.- O),"CIRCULAR CON UN VEHÍCULO CUYA SUPERFICIE ACRISTALADA NO PERMITE A SU CONDUCTOR LA VISIBILIDAD DIÁFANA SOBRE TODA LA VÍA POR LA COLOCACIÓN DE LAMINAS, ADHESIVOS, CORTINILLAS U OTROS ELEMENTOS NO
+AUTORIZADOS","200.0
+100.0",Titular,"NOTA: Quedan prohibida la instalación de láminas adhesivas o cortinillas en el cristal frontal o en las ventanillas laterales delanteras, así como cualquier otra superficie acristalada incluida en el arco de 180 º de visión directa hacia delante del conductor (Orden ITC/1992/2010, de 14 de julio).",CONDICION ES TÉCNICAS
+CIR LSV,"019
+013","1
+2",5B,0,Grave 076.- O),"CIRCULAR CON UN VEHÍCULO PROVISTO DE LÁMINAS ADHESIVAS O CORTINILLAS CONTRA EL SOL EN LAS VENTANILLAS POSTERIORES, SIN LLEVAR DOS ESPEJOS RETROVISORES QUE CUMPLAN LAS ESPECIFICACIONES TÉCNICAS NECESARIAS.","200.0
+100.0",Titular,"NOTA: Las láminas de material plástico adhesivas pueden homologarse junto con el vidrio al que van destinadas, en aplicación de la Directiva 92/22/CEE del Consejo, de 31 de marzo, relativa a los cristales de seguridad y a los materiales para acristalamiento de vehículos a motor y sus remolques, o del Reglamento de la CEPE/ONU
+43R00.",CONDICION ES TÉCNICAS
+CIR LSV,"020
+014","1
+1",5F,4,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN SANGRE SUPERIOR A 0,50 GRAMOS POR 1000 C.C., QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA (PARA CONDUCTORES EN GENERAL, PRUEBAS SIEMPRE CON ETILÓMETROS
+HOMOLOGADOS)","500.0
+250.0",Conductor,NOTA: Causa de posible inmovilización y depósito del vehículo (arts. 104 y 105 LSV),ALCOHOL
+CIR LSV,"020
+014","1
+1",5I,6,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN AIRE ESPIRADO SUPERIOR A 0,25 MILIGRAMOS POR LITRO, QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA, SOBREPASANDO LOS 0,50 MG/L (TRAS LA ENTRADA EN VIGOR DE LA LEY 6/2014, DE 7 DE ABRIL, HAY NUEVAS CUANTÍAS SANCIONADORAS APLICABLES SÓLO A SUPUESTOS DE HECHO COMETIDOS A PARTIR DE LA ENTRADA EN VIGOR DE LA CITADA LEY.ENTRA EN VIGOR
+EL 9/5/14)","1000.0
+500.0",Conductor,"NOTA: Para conductores en general, pruebas siempre con etilómetros homologados. La referencia sancionadora es la de la tasa menor con etilómetro homologado. Causa posible inmovilización y depósito del vehículo (art. 104 y 105 LSV)",ALCOHOL
+CIR LSV,"020
+014","1
+1",5J,6,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN SANGRE SUPERIOR A 0,50 GRAMOS POR MIL C.C, QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA, SOBREPASANDO 1,00 GR/L (TRAS LA ENTRADA EN VIGOR DE LA LEY 6/2014, DE 7 DE ABRIL, HAY NUEVAS CUANTÍAS SANCIONADORAS APLICABLES SÓLO A SUPUESTOS DE HECHO COMETIDOS A PARTIR DE LA ENTRADA EN VIGOR DE LA CITADA LEY. ENTRA EN VIGOR EL 9/5/14.PARA CONDUCTORES EN
+GENERAL.)","1000.0
+500.0",Conductor,NOTA: Para conductores en general.Causa de posible inmovilización y depósito del vehículo (arts. 104 y 105 LSV).,ALCOHOL
+CIR LSV,"020
+014","1
+1",5K,6,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN AIRE ESPIRADO SUPERIOR A 0,15 MILIGRAMOS POR LITRO, QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA, SOBREPASANDO LOS 0,30 MG/L (PARA CONDUCTORES PROFESIONALES, DE SERVICIO DE URGENCIA, MERCANCÍAS PELIGROSAS O TRANSPORTES ESPECIALES, NOVELES Y PRUEBAS SIEMPRE CON ETILÓMETROS
+HOMOLOGADO.)","1000.0
+500.0",Conductor,"NOTA: Tras la entrada en vigor de la Ley 6/2014, de 7 de abril, hay nuevas cuantías sancionadoras aplicables sólo a supuestos de hecho cometidos a partir de la entrada en vigor de la citada Ley. La referencia sancionadora es la de la tasa menor con etilómetro homologado. Causa posible inmovilización y depósito del vehículo (art 84 y 85 LSV)",ALCOHOL
+CIR LSV,"020
+014","1
+1",5M,4,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN AIRE ESPIRADO SUPERIOR A 0,25 MILIGRAMOS POR LITRO, QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA. (NUEVA CODIF. A TENER EN CUENTA, TRAS LA MODIFICACIÓN DE LA CUANTÍA DE SANCIÓN EN ESTOS SUPUESTOS, APROBADA POR LEY 6/2014, DE 7 DE ABRIL, REFERIDA A LA EXISTENCIA DE SANCIÓN FIRME ADOPTADA EN AÑO INMEDIATAMENTE ANTERIOR A LA FECHA DE LOS HECHOS
+DETECTADOS)","1000.0
+500.0",Conductor,"NOTA: Para conductores en general, pruebas siempre con etilómetros homologados.La referencia sancionadora es la de la tasa menor con etilómetro homologado. Causa posible inmovilización y depósito del vehículo (art 104 y 105 LSV)",ALCOHOL
+CIR LSV,"020
+014","1
+1",5O,4,"Muy grave 077.-
+C)","CIRCULAR CON UNA TASA DE ALCOHOL EN SANGRE SUPERIOR A 0,30 GRAMOS POR 1000 C.C., QUE ES LA REGLAMENTARIAMENTE ESTABLECIDA (PARA CONDUCTORES PROFESIONALES, NOVELES, DE SERVICIO DE URGENCIA, MERCANCÍAS PELIGROSAS O TRANSPORTES ESPECIALES. CAUSA DE POSIBLE INMOVILIZACIÓN Y DEPÓSITO DEL VEHÍCULO (ARTS. 104 Y
+105 LSV))","1000.0
+500.0",Conductor,"NOTA: Nueva codificación a tener en cuenta, una vez tenida en consideración la modificación del límite sancionador aplicable a estos supuestos tras la aprobación de la Ley 6/2014, de 7 de abril, referida a la constancia de la existencia de una sanción firme en el año inmediatamente anterior a la fecha de los hechos detectados.",ALCOHOL
+CIR LSV,"026
+014","1
+5",5B,0,Leve,"NEGARSE EL PERSONAL SANITARIO DE UN CENTRO MÉDICO A REMITIR AL LABORATORIO LAS PRUEBAS OBTENIDAS PARA LA DETERMINACIÓN DEL GRADO DE ALCOHOLEMIA DE LA PERSONA QUE DESEA
+SOMETERSE A TAL PRUEBA","80.0
+40.0",Facultativo,,ALCOHOL
+CIR LSV,"026
+014","1
+5",5D,0,Leve,"OMITIR EL PERSONAL SANITARIO ENCARGADO DE COMUNICAR A LA AUTORIDAD CORRESPONDIENTE EL RESULTADO DE LAS PRUEBAS REALIZADAS LOS DATOS EXIGIDOS
+                                                                                                                 REGLAMENTARIAMENTE                                                                                                                            ","80.0
+40.0",Facultativo,,ALCOHOL
+CIR LSV,"029
+015","1
+-",5B,0,Grave 076.- C),"NO CIRCULAR POR LA VÍA EN UN CAMBIO DE RASANTE O CURVA DE REDUCIDA VISIBILIDAD DEJANDO COMPLETAMENTE LIBRE LA MITAD DE LA CALZADA QUE CORRESPONDA A LOS QUE PUEDAN CIRCULAR EN
+SENTIDO CONTRARIO","200.0
+100.0",Conductor,,SENTIDO CIRCULACI ÓN
+CIR LSV,"029
+015","2
+-",5A,6,"Muy grave 077.-
+F)","CIRCULAR POR LA IZQUIERDA EN UNA VÍA DE DOBLE SENTIDO DE LA CIRCULACIÓN EN SENTIDO CONTRARIO AL ESTIPULADO (DEBERÁ ESPECIFICARSE SI CIRCULABA ALGÚN VEHÍCULO POR SU SENTIDO DE LA VÍA Y EN SENTIDO CONTRARIO AL PRESUNTO INFRACTOR, SI ALGÚN VEHÍCULO TUVO QUE REALIZAR MANIOBRAS EVASIVAS Y SI HUBO PELIGRO PARA ALGÚN OTRO
+                                                                                                                     USUARIO DE LA VÍA.)                                                                                                                                ","500.0
+250.0",Conductor,"NOTA: No será necesario identificar ni al vehículo ni al usuario, pero caso de disponer de algún dato se hará constar (matrícula, marca y modelo).",SENTIDO CONTRARIO
+CIR LSV,"030
+016","1-B
+1",5D,6,"Muy grave 077.-
+F)","CIRCULAR POR EL CARRIL SITUADO MÁS A LA IZQUIERDA EN SENTIDO CONTRARIO AL ESTIPULADO, EN UNA CALZADA DE DOBLE SENTIDO DE CIRCULACIÓN Y TRES CARRILES SEPARADOS
+POR MARCAS VIALES.","500.0
+250.0",Conductor,,SENTIDO CONTRARI O
+"CIR
+LSV","030
+017","1
+1",5A,0,Grave 076.- C),"CIRCULAR POR EL ARCÉN, NO EXISTIENDO RAZONES DE EMERGENCIA, CON UN VEHÍCULO AUTOMÓVIL","200.0
+100.0",Conductor,,ARCÉN
+CIR LSV,"031
+016",-1,5B,0,Grave 076.- C),"CIRCULAR FUERA DE POBLADO POR UN CARRIL DISTINTO DEL SITUADO MÁS A LA DERECHA, EN CALZADA CON MÁS DE UN CARRIL PARA EL MISMO SENTIDO DE MARCHA, ENTORPECIENDO LA CIRCULACIÓN DE OTRO
+VEHÍCULO QUE LE SIGUE.","200.0
+100.0",Conductor,NOTA: Estos hechos no se denunciarán como posible infracción si no existe entorpecimiento para otro vehículo que le siga.,UTILIZACIÓ N CARRILES
+CIR LSV,"031
+016","1
+1",5A,0,Grave 076.- C),"CIRCULAR CON UN AUTOMÓVIL O VEHÍCULO ESPECIAL CON MMA SUPERIOR A 3.500 KG, FUERA DE POBLADO Y SIN RAZONES DE EMERGENCIA, POR EL ARCÉN DE UNA VÍA CON MÁS DE UN CARRIL PARA EL
+                                                                                                             MISMO SENTIDO DE MARCHA.                                                                                                                        ","200.0
+100.0",Conductor,,ARCÉN
+CIR LSV,"032
+016",-1,5B,0,Grave 076.- C),"CIRCULAR FUERA DE POBLADO CON UN VEHÍCULO ESPECIAL O CONJUNTO DE VEHÍCULOS DE MÁS DE SIETE METROS DE LONGITUD,  POR UN CARRIL DISTINTO DEL SITUADO MÁS A LA DERECHA, ENTORPECIENDO LA MARCHA
+DE OTRO QUE LE SIGUE.","200.0
+100.0",Conductor,,UTILIZACIÓ N CARRILES
+CIR LSV,"033
+016",-1,5B,0,Grave 076.- C),"CIRCULAR CON UN AUTOMÓVIL O VEHÍCULO ESPECIAL POR CALZADA DE POBLADO CON AL MENOS DOS CARRILES PARA EL MISMO SENTIDO, DELIMITADOS POR MARCAS LONGITUDINALES, CAMBIANDO DE CARRIL SIN
+                                                                                                                   MOTIVO JUSTIFICADO.                                                                                                                              ","200.0
+100.0",Conductor,NOTA: El hecho de circular en zig- zag debe tipificarse por el artículo 3 del Reglamento de Circulación.,UTILIZACIÓ N CARRILES
+CIR LSV,"035
+018","1
+-",5A,0,Grave 076.- C),"CIRCULAR POR UN CARRIL DE ALTA OCUPACIÓN, CON UN NÚMERO DE OCUPANTES, INCLUIDO EL CONDUCTOR, INFERIOR AL ESTABLECIDO. (VAO)","200.0
+100.0",Conductor,"NOTA: La Autoridad competente determinará los tramos de la red viaria en los que funcionarán carriles reservados para VAO, fijará las condiciones de utilización y publicará, reglamentariamente, la relación de tramos de la red viaria
+en los que se habiliten.",BUS-VAO
+CIR LSV,"035
+018","2
+-",5B,6,"Muy grave 077.-
+F)","CIRCULAR POR UN CARRIL DE ALTA OCUPACIÓN, EN SENTIDO CONTRARIO AL ESTABLECIDO (VAO)","500.0
+250.0",Conductor,"NOTA: La utilización del carril o carriles habilitados para vehículos con alta ocupación queda limitada a motocicletas, turismos y vehículos mixtos adaptables, que cumplan los requisitos para ser considerados
+VAO.",SENTIDO CONTRARI O
+CIR LSV,"036
+017","1
+1",5A,0,Grave 076.- C),"NO CIRCULAR POR EL ARCÉN TRANSITABLE DE SU DERECHA EL CONDUCTOR DEL VEHÍCULO RESEÑADO ESTANDO OBLIGADO A UTILIZARLO (DEBEN CIRCULAR POR EL ARCÉN DE SU DERECHA, TOTAL O PARCIALMENTE: LOS VEHICULOS DE TRACCIÓN ANIMAL,LOS VEHÍCULOS ESPECIALES CON MMA NO SUPERIOR A 3.500 KG, LOS CICLOS Y CICLOMOTORES, LOS VEHÍCULOS PARA PERSONAS DE MOVILIDAD
+REDUCIDA)","200.0
+100.0",Conductor,"NOTA: los vehículos en seguimiento de ciclistas,los vehículos cuya MMA no exceda de 3.500 kg que, por razones de emergencia, lo hagan a velocidad anormalmente reducida, perturbando con ello gravemente la circulación.",ARCÉN
+CIR LSV,"036
+017","2
+2",5A,0,Grave 076.- Z),"CIRCULAR EN POSICIÓN PARALELA CON OTRO VEHÍCULO, TENIENDO AMBOS PROHIBIDA DICHA FORMA DE CIRCULAR (CON EXCEPCIÓN DE LAS BICICLETAS QUE PODRÁN HACERLO EN COLUMNA DE A 2, ORILLÁNDOSE TODO LO POSIBLE AL EXTREMO DERECHO DE LA VÍA Y COLOCÁNDOSE EN HILERA EN TRAMOS SIN VISIBILIDAD, Y CUANDO FORMEN AGLOMERACIONES DE
+TRÁFICO.)","200.0
+100.0",Conductor,"NOTA: En las autovías sólo podrán circular por el arcén, sin invadir la calzada en ningún caso. Los ciclomotores podrán circular en columna de a dos por el arcén, cuando sea transitable éste, sin invadir la calzada en ningún caso.",CONDUCC. NEGLIGENT E
+CIR LSV,"037
+018","1
+-",5B,0,Grave 076.- C),"CIRCULAR POR UNA VÍA CERRADA AL TRÁFICO O POR UNO  DE SUS TRAMOS, VULNERANDO LA PROHIBICIÓN TOTAL O PARCIAL DE ACCESO AL MISMO POR PARTE DE LA AUTORIDAD COMPETENTE, POR RAZONES DE FLUIDEZ O SEGURIDAD DE LA
+CIRCULACIÓN","200.0
+100.0",Conductor,"NOTA: CUANDO SE VULNEREN LAS RESTRICCIONES ESTABLECIDAS POR LA RESOLUCIÓN ANUAL DE LA DGT DE MEDIDAS ESPECIALES, SE DENUNCIARÁ POR LOS ARTS.
+39.2.5A Y 39.5.5A DEL RGCirc",LIMITACION ES A LA CIRCULACI ÓN
+CIR LSV,"037
+018","2
+-",5A,0,Leve,"CIRCULAR POR UNA VÍA CONTRAVINIENDO LA RESTRICCIÓN O LIMITACIÓN DE CIRCULACIÓN A DETERMINADOS VEHÍCULOS ORDENADA POR LA AUTORIDAD COMPETENTE PARA EVITAR EL ENTORPECIMIENTO DE AQUELLA (PARA AQUELLOS SUPUESTOS EN QUE LA CONTRAVENCIÓN VULNERADA NO SE REFIERE A UNA ORDENACIÓN ESPECIAL DEL TRÁFICO POR RAZONES DE SEGURIDAD O
+FLUIDEZ DE LA CIRCULACIÓN)","80.0
+40.0",Conductor,"NOTA: CUANDO SE VULNEREN LAS RESTRICCIONES ESTABLECIDAS POR LA RESOLUCIÓN ANUAL DE LA DGT DE MEDIDAS ESPECIALES, SE DENUNCIARÁ POR LOS ARTS.
+39.2.5A Y 39.5.5A DEL RGCirc",LIMITACION ES A LA CIRCULACI ÓN
+CIR LSV,"037
+018","3
+-",5A,0,Grave 076.- C),"CERRAR A LA CIRCULACIÓN DE UNA VÍA SIN ESTAR EL MISMO EXPRÉSAMENTE AUTORIZADO POR EL ORGANISMO AUTÓNOMO JEFATURA CENTRAL DE TRÁFICO O, EN SU CASO, POR LA AUTORIDAD AUTONÓMICA O LOCAL RESPONSABLE DE LA REGULACIÓN DEL
+TRÁFICO.","200.0
+100.0",Autor Organización,"NOTA: Aplicable a todos aquellos cierres a la circulación de una vía que no estén motivados por deficiencias físicas de la infraestructura o por la realización de obras en ésta, circunstancias éstas que podrían suponer la vulneración de la normativa de carreteras y/o seguridad ciudadana.",LIMITACION ES A LA CIRCULACI ÓN
+CIR LSV,"037
+018","4
+-",5A,0,Grave 076.- C),"INCUMPLIR EL ORGANO PETICIONARIO, LAS INSTRUCCIONES FIJADAS POR LA AUTORIDAD RESPONSABLE DE LA REGULACIÓN DEL TRÁFICO, CON MOTIVO DEL ESTABLECIMIENTO DE RESTRICCIONES O LIMITACIONES A LA CIRCULACIÓN POR RAZONES DE SEGURIDAD O FLUIDEZ VIAL. (HABRÁ DE ESPECIFICARSE EL CONCRETO OBJETO DEL INCUMPLIMENTO DETECTADO, ASÍ COMO LOS EFECTOS PRODUCIDOS POR EL MISMO, AL OBJETO DE PODER GRADUAR EN LA DEBIDA FORMA LA SANCIÓN A IMPONER POR DICHA
+                                                                                                                            CONDUCTA.)                                                                                                                                       ","200.0
+100.0",Organización,,LIMITACION ES A LA CIRCULACI ÓN
+"
+
+
+CIR LSV","
+
+
+038
+
+020","
+
+
+1
+
+1","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- X)","CIRCULAR POR AUTOPISTAS O AUTOVÍAS CON VEHÍCULOS CON LOS QUE ESTÁ EXPRESAMENTE PROHIBIDO (SUPUESTO REFERIDO A CIRCULACIÓN CON VEHÍCULOS DE TRACCIÓN ANIMAL, BICICLETAS, CICLOMOTORES Y VEHÍCULOS PARA PERSONAS
+DE MOVILIDAD REDUCIDA)","
+
+
+200.0
+
+100.0",Conductor,,"
+
+
+
+AUTOPISTA
+-AUTOVÍA"
+"
+
+CIR LSV","
+
+038
+
+021","
+
+2
+
+5","
+
+
+5A","
+
+
+0","
+
+
+Leve","NO ABANDONAR UNA
+AUTOPISTA O AUTOVÍA POR LA PRIMERA SALIDA EL CONDUCTOR DEL VEHÍCULO RESEÑADO CUANDO POR RAZONES DE EMERGENCIA SE VEA OBLIGADO A CIRCULAR A VELOCIDAD ANORMALMENTE REDUCIDA","
+
+80.0
+
+40.0",Conductor,,"
+
+
+AUTOPISTA
+-AUTOVÍA"
+"
+
+CIR LSV","
+
+038
+
+066","
+
+3
+
+1","
+
+
+5A","
+
+
+0","
+
+Muy grave 077.-
+L)","CIRCULAR POR AUTOPISTA O
+AUTOVÍA CON EL VEHÍCULO ESPECIAL RESEÑADO O EN RÉGIMEN DE TRANSPORTE ESPECIAL, QUE EXCEDE DE LAS MASAS Y DIMENSIONES ESTABLECIDAS PARA LOS VEHÍCULOS, CARECIENDO DE AUTORIZACIÓN.","
+
+500.0
+
+250.0",Titular,,"
+
+MASAS Y DIMENSION ES"
+"
+
+
+CIR LSV","
+
+
+038
+
+021","
+
+
+3
+
+5","
+
+
+
+5B","
+
+
+
+0","
+
+
+Grave 076.- X)","CIRCULAR POR AUTOPISTA O
+AUTOVÍA VEHÍCULO ESPECIAL RESEÑADO O EN RÉGIMEN TRANSPORTE ESPECIAL, SIN EXCESO DE MASAS O DIMENSIONES REGLAMENTARIAS, Y QUE POR SUS CARACTERISTICAS NO PUEDE DESARROLLAR VELOCIDAD SUPERIOR A 60 KM/H EN LLANO.","
+
+
+200.0
+
+100.0",Conductor,"NOTA: Habrá de comprobarse, en aquellos casos de vehículos especiales o transportes especiales que no excedan de dichas masas, que cumplan las condiciones que se señalan en el Anexo III del RGCirc., así como el Grupo 2 de dicho Anexo III en lo concerniente a los vehículos especiales agrícolas y sus conjuntos.","
+
+
+
+AUTOPISTA
+-AUTOVÍA"
+"
+CIR LSV","
+038
+
+021","
+4
+
+5","
+
+5A","
+
+0","
+Grave 076.- X)","CIRCULAR POR TRAVESÍA, VÍA
+INTERURBANA, AUTOPISTA Y AUTOVÍA QUE TRANSCURREN DENTRO DE POBLADO, ASÍ COMO EN TÚNELES URBANOS, CON VEHÍCULOS
+                                                                                                               DE MOVILIDAD PERSONAL.	","
+200.0
+
+100.0",Conductor,"
+NOTA: Nuevo apartado introducido por RD 970/2020, de 10 de noviembre, de modificación del RGCirculación, con entrada en vigor a partir del 2 de enero de 2021.","
+
+AUTOPISTA
+
+-AUTOVÍA"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+039
+
+018","
+
+
+
+
+
+2
+
+-","
+
+
+
+
+
+
+5A","
+
+
+
+
+
+
+0","
+
+
+
+
+
+Grave 076.- C)","CIRCULAR CON EL VEHICULO RESEÑADO DENTRO DE LOS ITINERARIOS Y PLAZOS OBJETO DE LAS RESTRICCIONES IMPUESTAS POR LA AUTORIDAD COMPETENTE. (SE DEBERÁ DENUNCIAR POR ESTE HECHO SOLO EN EL SUPUESTO DE QUE NO SEA POSIBLE QUE EL INTERESADO OBTENGA UNA AUTORIZACIÓN ESPECIAL. EN CASO CONTRARIO, SE DENUNCIARÁ POR EL
+ARTÍCULO 39.5.5A CIRC.)","
+
+
+
+
+
+200.0
+
+100.0",Conductor,,"
+
+
+
+
+LIMITACION ES A LA CIRCULACI ÓN"
+"
+
+
+CIR LSV","
+
+
+039
+
+018","
+
+
+4
+
+-","
+
+
+
+5A","
+
+
+
+4","
+
+
+Grave 076.- J)",CIRCULAR CONTRAVINIENDO LAS RESTRICCIONES TEMPORALES A LA CIRCULACIÓN IMPUESTAS POR LOS AGENTES ENCARGADOS DE LA VIGILANCIA DEL TRÁFICO PARA LOGRAR UNA MAYOR FLUIDEZ Y SEGURIDAD EN LA CIRCULACIÓN,"
+
+
+200.0
+
+100.0",Conductor,"NOTA: En casos imprevistos, o por circunstancias excepcionales, cuando se estime necesario para lograr una mayor fluidez o seguridad de la circulación, serán los agentes de la autoridad responsable de la vigilancia y disciplina del tráfico los que, durante el tiempo necesario, determinen las restricciones, adoptandos las
+medidas oportunas.","
+
+
+LIMITACION ES A LA CIRCULACI ÓN"
+"
+
+
+CIR LSV","
+
+
+039
+
+018","
+
+
+5
+
+-","
+
+
+
+5A","
+
+
+
+0","
+
+
+Muy grave 077.-
+L)","CIRCULAR CON EL VEHÍCULO RESEÑADO DENTRO DE LOS ITINERARIOS Y PLAZOS OBJETO DE LAS RESTRICCIONES IMPUESTAS POR LA AUTORIDAD COMPETENTE, CARECIENDO DE LA AUTORIZACIÓN ESPECIAL
+                                                                                                                     CORRESPONDIENTE	","
+
+
+500.0
+
+250.0","Titular
+
+Arrendatario a largo plazo","
+NOTA: La DGT publica una Resolución anual sobre medidas especiales de circulación, que, igualmente, medida igualmente adoptada con igual periodicidad por otras Administraciones en su ámbito de competencia.","
+
+
+
+LIMITACION ES A LA CIRCULACI ÓN"
+"CIR
+
+LSV","040
+
+043","1
+
+2","
+5A","
+0",Grave 076.- E),CIRCULAR POR UN CARRIL REVERSIBLE SIN LLEVAR ENCENDIDO EL ALUMBRADO DE CRUCE,"200.0
+
+100.0",Conductor,,"
+ALUMBRAD O"
+"
+CIR LSV","
+040
+
+018","
+2
+
+-","
+
+5A","
+
+6","
+Muy grave 077.-
+F)","CIRCULAR POR UN CARRIL REVERSIBLE EN SENTIDO CONTRARIO AL ESTIPULADO (VÁLIDO PARA CUALQUIER CARRIL REVERSIBLE,
+                                                                                                                         EXCEPTO VAO)	","
+500.0
+
+250.0",Conductor,,"
+
+
+SENTIDO CONTRARI O"
+"
+
+CIR LSV","
+
+041
+
+018","
+
+1
+
+-","
+
+
+5A","
+
+
+0","
+
+Grave 076.- C)",CIRCULAR CON UN VEHÍCULO NO AUTORIZADO REGLAMENTARIAMENTE POR UN CARRIL HABILITADO PARA LA CIRCULACIÓN EN SENTIDO CONTRARIO AL HABITUAL DEBIDAMENTE SEÑALIZADO,"
+
+200.0
+
+100.0",Conductor,"NOTA: La utilización de los carriles habilitados para la circulacion en sentido contrario al habitual, por razón de fluidez de la misma, queda limitada a las motocicletas y turismos, salvo que sean obras en la calzada las que motiven tal
+habilitación.","
+
+UTILIZACIÓ N CARRILES"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+041
+
+043","
+
+
+
+
+
+1
+
+2","
+
+
+
+
+
+
+5C","
+
+
+
+
+
+
+0","
+
+
+
+
+
+Grave 076.- E)","CIRCULAR POR UN CARRIL HABILITADO PARA LA CIRCULACIÓN EN SENTIDO CONTRARIO AL HABITUAL SIN LLEVAR ENCENDIDO EL ALUMBRADO DE CRUCE (COMO OBLIGACIONES ADICIONALES EN ESTOS SUPUESTOS NOS ENCONTRAMOS CON QUE, LOS CONDUCTORES QUE CIRCULEN POR UNO DE ESTOS CARRILES DISPUESTO PARA SU UTILIZACIÓN EN SENTIDO CONTRARIO AL HABITUAL O POR UN CARRIL
+ADICIONAL,)","
+
+
+
+
+
+200.0
+
+100.0",Conductor,"
+
+
+
+
+NOTA: lo harán a una velocidad máxima de 80 km/h y a una mínima de 60 (o inferiores si así estuviera establecido o específicamente señalizado).","
+
+
+
+
+
+
+ALUMBRAD O"
+"
+
+CIR LSV","
+
+041
+
+043","
+
+1
+
+2","
+
+
+5D","
+
+
+0","
+
+Grave 076.- E)","CIRCULAR POR UN CARRIL
+DESTINADO AL SENTIDO NORMAL DE CIRCULACIÓN, CONTIGUO AL HABILITADO PARA LA CIRCULACIÓN EN SENTIDO CONTRARIO, SIN LLEVAR ENCENDIDO EL ALUMBRADO DE CRUCE","
+
+200.0
+
+100.0",Conductor,"
+NOTA: Los conductores que circulen por uno de estos carriles deberán llevar encendida, al menos, la luz de corto alcance o cruce, tanto de día como de noche.","
+
+
+ALUMBRAD O"
+"
+
+CIR LSV","
+
+041
+
+018","
+
+1
+
+-","
+
+
+5E","
+
+
+0","
+
+Grave 076.- M)","DESPLAZARSE
+LATERALMENTE A UN CARRIL CONTIGUO DESTINADO AL SENTIDO NORMAL DE LA CIRCULACIÓN DESDE OTRO CARRIL HABILITADO PARA LA CIRCULACIÓN AL SENTIDO CONTRARIO AL HABITUAL","
+
+200.0
+
+100.0",Conductor,,"
+
+UTILIZACIÓ N CARRILES"
+"
+
+CIR LSV","
+
+041
+
+018","
+
+1
+
+-","
+
+
+5F","
+
+
+0","
+
+Grave 076.- M)","DESPLAZARSE
+LATERALMENTE A UN CARRIL CONTIGUO DESTINADO AL SENTIDO CONTRARIO AL HABITUAL DE LA CIRCULACIÓN DESDE OTRO CARRIL HABILITADO PARA LA CIRCULACIÓN AL SENTIDO NORMAL","
+
+200.0
+
+100.0",Conductor,,"
+
+UTILIZACIÓ N CARRILES"
+"
+CIR LSV","
+041
+
+018","
+1
+
+-","
+
+5G","
+
+0","
+Grave 076.- C)","CIRCULAR ALTERANDO LOS
+ELEMENTOS DE BALIZAMIENTO PERMANENTES O MÓVILES DE UN CARRIL DESTINADO AL USO CONTRARIO AL HABITUAL","
+200.0
+
+100.0",Conductor,"NOTA: Si la alteración fuera de tipo
+leve, tal conducta podría ser considerada como constitutiva de distracción o de falta de atención que sería denunciada como vulneración del artículo 18.1, opción 5C del RGCirc.","
+
+
+BALIZAMIEN TO"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+041
+
+018","
+
+
+
+
+
+1
+
+-","
+
+
+
+
+
+
+5H","
+
+
+
+
+
+
+6","
+
+
+
+
+
+Muy grave 077.-
+F)","CIRCULAR EN SENTIDO CONTRARIO AL ESTIPULADO EN UNA CALZADA EN LA QUE LA AUTORIDAD COMPETENTE DE LA REGULACIÓN DEL TRÁFICO HAYA HABILITADO CARRILES PARA SU UTILIZACIÓN EN SENTIDO CONTRARIO AL HABITUAL (SE DENUNCÍARÁN POR ESTE CONCEPTO, TANTO A LOS QUE CIRCULANDO POR EL CARRIL HABILITADO INVADEN EL CONTIGUO EN SENTIDO CONTRARIO, COMO LOS QUE CIRCULANDO POR ÉSTE
+                                                                                                                INVADEN EL HABILITADO)	","
+
+
+
+
+
+500.0
+
+250.0",Conductor,,"
+
+
+
+
+
+
+
+SENTIDO CONTRARI O"
+CIR LSV,"
+042
+
+043","
+1
+
+2","
+
+5A","
+
+0","
+Grave 076.- E)","CIRCULAR POR UN CARRIL ADICIONAL DE CIRCULACIÓN BALIZADO SIN LLEVAR ENCENDIDO EL ALUMBRADO
+DE CRUCE","
+200.0
+
+100.0",Conductor,,"
+ALUMBRAD O"
+"
+
+CIR LSV","
+
+042
+
+018","
+
+1
+
+-","
+
+
+5B","
+
+
+0","
+
+Grave 076.- M)","DESPLAZARSE LATERALMENTE A UN CARRIL DESTINADO AL SENTIDO NORMAL DE LA CIRCULACIÓN DESDE UN CARRIL ADICIONAL, INVADIENDO EL
+SENTIDO CONTRARIO","
+
+200.0
+
+100.0",Conductor,,"
+
+UTILIZACIÓ N CARRILES"
+"
+
+CIR LSV","
+
+042
+
+018","
+
+1
+
+-","
+
+
+5C","
+
+
+0","
+
+Grave 076.- M)","DESPLAZARSE LATERALMENTE DESDE UN CARRIL DE SENTIDO NORMAL DE CIRCULACIÓN A UN CARRIL ADICIONAL, INVADIENDO EL SENTIDO
+CONTRARIO","
+
+200.0
+
+100.0",Conductor,,"
+
+UTILIZACIÓ N CARRILES"
+"CIR
+
+LSV","042
+
+018","1
+
+-","
+5D","
+6","Muy grave 077.-
+F)",CIRCULAR POR UN CARRIL ADICIONAL DE CIRCULACIÓN EN SENTIDO CONTRARIO AL ESTIPULADO,"500.0
+
+250.0",Conductor,,"
+SENTIDO CONTRARI O"
+"CIR
+
+LSV","042
+
+018","1
+
+-","
+5E","
+0",Grave 076.- C),CIRCULAR POR UN CARRIL ADICIONAL DE CIRCULACIÓN ALTERANDO SUS ELEMENTOS DE BALIZAMIENTO,"200.0
+
+100.0",Conductor,,"
+
+BALIZAMIEN TO"
+"
+
+CIR LSV","
+
+043
+
+019","
+
+1
+
+-","
+
+
+5A","
+
+
+6","
+
+Muy grave 077.-
+F)","CIRCULAR EN SENTIDO CONTRARIO AL ESTIPULADO EN VÍA DE DOBLE SENTIDO DE CIRCULACIÓN, DONDE EXISTE UNA ISLETA, UN REFUGIO O UN DISPOSITIVO
+DE GUÍA","
+
+500.0
+
+250.0",Conductor,,"
+
+SENTIDO CONTRARI O"
+"CIR
+
+LSV","043
+
+019","2
+
+-","
+5A","
+6","Muy grave 077.-
+F)","CIRCULAR POR UNA PLAZA, GLORIETA O ENCUENTRO DE VÍAS EN SENTIDO CONTRARIO AL ESTIPULADO","500.0
+
+250.0",Conductor,"NOTA: En plazas, glorietas y encuentros de vías, los vehiculos circularán dejando a su izquierda el centro de las mismas.","
+SENTIDO CONTRARI O"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+044
+
+015","
+
+
+
+
+
+1
+
+-","
+
+
+
+
+
+
+5A","
+
+
+
+
+
+
+6","
+
+
+
+
+
+Muy grave 077.-
+F)","CIRCULAR EN SENTIDO CONTRARIO AL ESTIPULADO EN VÍA DIVIDIDA EN DOS CALZADAS (SALVO CUANDO LA CAUSA DE LA CIRCULACIÓN EN SENTIDO CONTRARIO HAYA PODIDO SER DEBIDA A UN ERROR EN LA PERCEPCIÓN DEL CONDUCTOR, QUE CIRCULA INVOLUNTARIAMENTE EN SENTIDO CONTRARIO DEBIDO A UNA SITUACIÓN ""PERMANENTE"" VINCULADA CON SU ESTADO GENERAL
+DE SALUD )","
+
+
+
+
+
+500.0
+
+250.0",Conductor,"
+
+
+
+NOTA: o si la causa de tal acción fue debida a un error del conductor,al incorporarse a dichas vías, por falta de una adecuada señalización, se enviará informe detallado a JPT para que pueda adoptar las medidas que estime oportunas","
+
+
+
+
+
+SENTIDO CONTRARI O"
+"
+
+CIR LSV","
+
+044
+
+015","
+
+2
+
+-","
+
+
+5B","
+
+
+6","
+
+Muy grave 077.-
+F)","CIRCULAR POR LA CALZADA
+LATERAL o central, EN SENTIDO CONTRARIO AL ESTIPULADO EN LA CORRESPONDIENTE SEÑAL, EN UNA VÍA DIVIDIDA EN TRES
+                                                                                                                             CALZADAS	","
+
+500.0
+
+250.0",Conductor,,"
+
+
+SENTIDO CONTRARI O"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+046
+
+021","
+
+
+
+
+
+1
+
+1","
+
+
+
+
+
+
+5A","
+
+
+
+
+
+
+0","
+
+
+
+
+
+Grave 076.- M)","CIRCULAR CON UN VEHÍCULO SIN MODERAR LA VELOCIDAD Y, EN SU CASO, SIN DETENERSE CUANDO LO EXIGEN LAS CIRCUNSTANCIAS (DEBERÁN INDICARSE SUCINTAMENTE TALES CIRCUNSTANCIAS: PRESENCIA DE PEATONES, CICLISTAS, VEHÍCULOS, ANIMALES, INTERSECCIÓNES, COLEGIOS, OTROS LUGARES ESPECIALES, CIRCUNSTANCIAS METEOROLÓGICAS, ESTADO
+                                                                                                                  DEL PAVIMENTO, ETC, )	","
+
+
+
+
+
+200.0
+
+100.0",Conductor,"
+
+
+
+
+NOTA: Téngase en cuenta la modificación de la letra f) de este precepto por RD 159/2021, de 16 de marzo","
+
+
+
+
+
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5A","
+6","Muy grave 077.-
+A)","CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H. (GRAVE)","600.0
+
+300.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5B","
+
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5C","
+6","Muy grave 077.-
+A)","CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","600.0
+
+300.0",Conductor,NOTA: Sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5D","
+
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades)","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5E","
+6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","500.0
+
+250.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5F","
+
+6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+500.0
+
+250.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5G","
+4",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","400.0
+
+200.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5H","
+
+4","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+400.0
+
+200.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5I","
+2",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","300.0
+
+150.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5J","
+
+2","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+300.0
+
+150.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5K","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+SIN REDUC.",Conductor,"NOTA: Sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades. Importe
+variable entre 100 y 500 euros.","
+
+VELOCIDAD"
+"
+CIR LSV","
+048
+
+021","
+1
+
+2","
+
+5L","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+
+SIN REDUC.",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades). Importe variable entre 100 y 500 euros.","
+
+VELOCIDAD"
+"CIR
+
+LSV","048
+
+021","1
+
+2","
+5M","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","100.0
+
+50.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+048
+
+021","
+1
+
+2","
+
+5N","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+100.0
+
+50.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+
+VELOCIDAD"
+CIR LSV,"
+049
+
+021","
+1
+
+1","
+
+5A","
+
+0","
+Grave 076.- M)","CIRCULAR A UNA VELOCIDAD ANORMALMENTE REDUCIDA, SIN CAUSA JUSTIFICADA, ENTORPECIENDO LA MARCHA
+DE OTRO VEHÍCULO","
+200.0
+
+100.0",Conductor,,"
+COMPORTA MIENTO INDEBIDO"
+CIR LSV,"
+049
+
+021","
+1
+
+1","
+
+5B","
+
+0","
+Grave 076.- M)","CIRCULAR POR UNA AUTOPISTA O AUTOVÍA CON UN VEHÍCULO A MOTOR A UNA VELOCIDAD INFERIOR A
+60 KM/H","
+200.0
+
+100.0",Conductor,"
+NOTA: Aunque no se encuentre circulando por dicho tramo ningún otro vehículo","
+
+VELOCIDAD"
+"
+
+CIR LSV","
+
+049
+
+021","
+
+1
+
+2","
+
+
+5C","
+
+
+0","
+
+
+Grave 076.- M)","CIRCULAR POR UNA VÍA CON UN VEHÍCULO A UNA VELOCIDAD INFERIOR A LA MITAD DE LA GENÉRICA ESTIPULADA (DEBERÁ INDICARSE LA VELOCIDAD GENÉRICA ESTIPULADA PARA EL VEHÍCULO OBJETO DE
+DENUNCIA)","
+
+200.0
+
+100.0",Conductor,,"
+
+
+COMPORTA MIENTO INDEBIDO"
+"
+
+CIR LSV","
+
+049
+
+021","
+
+3
+
+1","
+
+
+5A","
+
+
+0","
+
+
+Grave 076.- M)","NO UTILIZAR DURANTE LA
+CIRCULACIÓN DE UN VEHÍCULO QUE NO PUEDA ALCANZAR LA VELOCIDAD MÍNIMA EXIGIDA, LAS LUCES INDICADORAS DE DIRECCIÓN CON SEÑAL DE EMERGENCIA, EXISTIENDO PELIGRO DE
+                                                                                                                              ALCANCE	","
+
+200.0
+
+100.0",Conductor,,"
+
+
+
+INMOVILIZA CIÓN DEL VEHÍCULO"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5A","
+6","Muy grave 077.-
+A)","CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","600.0
+
+300.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5B","
+
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5C","
+6","Muy grave 077.-
+A)","CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","600.0
+
+300.0",Conductor,NOTA: Sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5D","
+
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autovía de acceso a las ciudades)","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5E","
+6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","500.0
+
+250.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5F","
+
+6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+500.0
+
+250.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5G","
+4",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","400.0
+
+200.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5H","
+
+4","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+400.0
+
+200.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5I","
+2",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","300.0
+
+150.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5J","
+
+2","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+300.0
+
+150.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5K","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+SIN REDUC.",Conductor,NOTA: Sólo para casos detectados en tramos de autovía de acceso a las ciudades. Importe variable entre 100 y 500 euros.,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5L","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+
+SIN REDUC.",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autovía de acceso a las ciudades). Importe variable entre 100 y 500 euros.","
+
+VELOCIDAD"
+"CIR
+
+LSV","050
+
+021","1
+
+3","
+5M","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","100.0
+
+50.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+050
+
+021","
+1
+
+3","
+
+5N","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+                                                                                                                   VELOCIDAD A ... KM/H.	","
+100.0
+
+50.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+
+VELOCIDAD"
+"
+
+CIR LSV","
+
+052
+
+021","
+
+1
+
+2","
+
+
+5A","
+
+
+6","
+
+
+Muy grave 077.-
+A)","
+
+
+CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+600.0
+
+300.0",Conductor,"NOTA: Sobre las máximas
+genéricas, indicadas en el cuadro de velocidades correspondiente al artículo 48 RGCirc., prevalecerán las fijadas a través de las correspondientes SEÑALES, así como a determinados CONDUCTORES en razón a sus circunstancias personales","
+
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5B","
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO
+RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5C","
+6","Muy grave 077.-
+A)","CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","600.0
+
+300.0",Conductor,NOTA: Sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades,"
+VELOCIDAD"
+CIR LSV,"
+052
+
+021","
+1
+
+2","
+
+5D","
+
+6","
+Muy grave 077.-
+A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+600.0
+
+300.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades)","
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5E","
+6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","500.0
+
+250.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+052
+
+021","
+1
+
+2","
+
+5F","
+
+6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+500.0
+
+250.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5G","
+4",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","400.0
+
+200.0",Conductor,,"
+
+VELOCIDAD"
+CIR LSV,"
+052
+
+021","
+1
+
+2","
+
+5H","
+
+4","
+Grave 076.- A)","CIRCULAR EN EL TRAMO
+RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+400.0
+
+200.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5I","
+2",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","300.0
+
+150.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+052
+
+021","
+1
+
+2","
+
+5J","
+
+2","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+300.0
+
+150.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5K","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+SIN REDUC.",Conductor,"NOTA: Sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades. Importe
+variable entre 100 y 500 euros.","
+VELOCIDAD"
+"
+CIR LSV","
+052
+
+021","
+1
+
+2","
+
+5L","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","
+
+
+SIN REDUC.",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (sólo para casos detectados en tramos de autopista y autovía de acceso a las ciudades). Importe variable entre 100 y 500 euros.","
+
+VELOCIDAD"
+"CIR
+
+LSV","052
+
+021","1
+
+2","
+5M","
+0, 2, 4, 6",Grave 076.- A),"CIRCULAR A ... KM/H, ESTANDO LIMITADA LA VELOCIDAD A ... KM/H.","100.0
+
+50.0",Conductor,,"
+VELOCIDAD"
+CIR LSV,"
+052
+
+021","
+1
+
+2","
+
+5N","
+
+0, 2, 4, 6","
+Grave 076.- A)","CIRCULAR EN EL TRAMO RESEÑADO A UNA VELOCIDAD MEDIA DE ...
+KM/H, ESTANDO LIMITADA LA
+VELOCIDAD A ... KM/H.","
+100.0
+
+50.0",Conductor,"NOTA: VELOCIDAD MEDIA EN
+TRAMO DE VÍA (tanto para autopista o autovía con accesos como para otros lugares en que ese detecte la infracción)","
+
+
+VELOCIDAD"
+"
+
+
+
+CIR LSV","
+
+
+
+052
+
+021","
+
+
+
+2
+
+2","
+
+
+
+
+5B","
+
+
+
+
+0","
+
+
+
+
+Leve","NO LLEVAR EN LA PARTE POSTERIOR DEL VEHÍCULO VISIBLE EN TODO MOMENTO, LA SEÑAL DE LIMITACIÓN DE VELOCIDAD V-4 (VEHÍCULOS ESPECIALES Y CONJUNTO DE VEHÍCULOS, VEHÍCULOS EN RÉGIMEN DE TRANSPORTE ESPECIAL Y PARA DETERMINADOS CONDUCTORES EN RAZÓN A SUS CIRCUNSTANCIAS
+                                                                                                                          PERSONALES)	","
+
+
+
+100.0
+
+50.0",Conductor,"
+NOTA: Aunque sólo tenga tal naturaleza especial uno de los vehículos que forma el conjunto. Código-precepto aplicable, salvo incumplimiento específico de normas o condiciones de una autorización complementaria de circulación, en cuyo caso se entendería vulnerado el art. 14.2 RGV.","
+
+
+
+
+
+SEÑALIZACi ÓN"
+"
+
+
+CIR LSV","
+
+
+053
+
+022","
+
+
+1
+
+1","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- M)","
+
+REDUCIR CONSIDERABLEMENTE LA VELOCIDAD DEL VEHÍCULO SIN ADVERTIRLO PREVIAMENTE","
+
+
+200.0
+
+100.0",Conductor,"NOTA: En caso de inminente peligro se puede reducir considerablemente la velocidad de un vehículo e incluso realizarlo de forma brusca, si bien, en tal caso, podríamos estar ante un posible incumplimiento, por parte del vehículo que circula detrás del primero de lo dispuesto en el
+artículo 54 RGCirc.","
+
+
+CONDUCC. NEGLIGENT E"
+CIR LSV,"
+053
+
+022","
+1
+
+1","
+
+5B","
+
+0","
+Grave 076.- M)","REDUCIR BRUSCAMENTE LA VELOCIDAD PRODUCIENDO RIESGO DE COLISIÓN CON LOS VEHÍCULOS QUE
+                                                                                                            CIRCULAN DETRÁS DEL SUYO	","
+200.0
+
+100.0",Conductor,,"
+CONDUCC. NEGLIGENT E"
+"
+
+
+CIR LSV","
+
+
+054
+
+022","
+
+
+1
+
+2","
+
+
+
+5A","
+
+
+
+4","
+
+
+Grave 076.- Ñ)","CIRCULAR DETRÁS DE OTRO VEHÍCULO SIN DEJAR ESPACIO LIBRE QUE LE PERMITA DETENERSE, SIN COLISIONAR, EN CASO DE FRENADA BRUSCA DEL QUE LE PRECEDE. (NO SE DENUNCIARÁ POR ESTOS CONCEPTOS A LOS CICLISTAS QUE CIRCULEN EN
+GRUPO)","
+
+
+200.0
+
+100.0",Conductor,"
+NOTA: Todo conductor de vehículo debe mantenerse a una distancia del que le precede que permita al que a su vez le siga adelantarlo con seguridad (50 metros para vehículos con MMA superior a
+3.500 kg y aquellos otros de más de 10 metros de longitud total)","
+
+
+
+DISTANCIA SEGURIDAD"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+054
+
+022","
+
+
+
+
+
+2
+
+3","
+
+
+
+
+
+
+5A","
+
+
+
+
+
+
+0","
+
+
+
+
+
+Grave 076.- Ñ)","CIRCULAR CON EL VEHÍCULO RESEÑADO DETRÁS DE OTRO SIN SEÑALIZAR EL PROPÓSITO DE ADELANTARLO, MANTENIENDO UNA SEPARACIÓN QUE NO PERMITE, A SU VEZ, SER ADELANTADO POR EL QUE LE SIGUE CON SEGURIDAD (NO APLICABLE A CICLISTAS EN GRUPO, EN POBLADO, EN ZONA PROHIBIDA DE ADELANTAMIENTO O CON MAS DE 1 CARRIL PARA MISMO SENTIDO O CON
+CIRCULACIÓN SATURADA)","
+
+
+
+
+
+200.0
+
+100.0",Conductor,"
+
+
+
+
+
+
+NOTA: Ver nota anterior","
+
+
+
+
+
+
+DISTANCIA SEGURIDAD"
+"
+
+CIR LSV","
+
+054
+
+022","
+
+2
+
+3","
+
+
+5B","
+
+
+0","
+
+Grave 076.- Ñ)","CIRCULAR CON EL VEHÍCULO CON MMA SUPERIOR A 3500 KG DETRÁS DE OTRO, SIN SEÑALIZAR SU PROPÓSITO DE ADELANTARLO, MANTENIENDO UNA SEPARACIÓN INFERIOR A 50
+METROS","
+
+200.0
+
+100.0",Conductor,"
+
+
+NOTA: Ver nota del CIR 54 1 5A","
+
+
+
+DISTANCIA SEGURIDAD"
+"
+
+
+CIR LSV","
+
+
+054
+
+022","
+
+
+2
+
+3","
+
+
+
+5C","
+
+
+
+0","
+
+
+Grave 076.- Ñ)","CIRCULAR CON EL VEHÍCULO O CONJUNTO DE VEHÍCULOS DE MÁS DE 10 METROS DE LONGITUD TOTAL DETRÁS DE OTRO, SIN SEÑALAR SU PROPÓSITO DE ADELANTARLO, MANTENIENDO UNA SEPARACIÓN INFERIOR A 50
+                                                                                                                               METROS.	","
+
+
+200.0
+
+100.0",Conductor,"
+
+
+
+NOTA: Ver nota del CIR 54 1 5A","
+
+
+
+DISTANCIA SEGURIDAD"
+"
+
+
+CIR LSV","
+
+
+055
+
+022","
+
+
+1
+
+5","
+
+
+
+5A","
+
+
+
+0","
+
+
+Muy grave 077.-
+G)","
+
+
+CELEBRAR UNA PRUEBA DEPORTIVA DE COMPETICIÓN SIN AUTORIZACIÓN","
+
+
+500.0
+
+250.0",Conductor Organización,"NOTA: La autorización previa, y la competencia para expedir la misma se encuentran contemplados en el Anexo II del RGCirc, habiéndose regulado la tramitación de petición de dichas autorizaciones de pruebas deportivas y marchas ciclistas, en lo que concierne a la JCT, en la Instrucciónes DGT 04/TV
+-42 y 16/TV-91, de 3 de mayo de
+2016.","
+
+
+CARENCIA AUT. PARA CIRCULAR"
+"
+
+CIR LSV","
+
+055
+
+022","
+
+1
+
+5","
+
+
+5B","
+
+
+0","
+
+
+Muy grave 077.-
+G)","
+
+
+CELEBRAR UNA MARCHA CICLISTA U OTRO EVENTO SIMILAR SIN AUTORIZACIÓN","
+
+500.0
+
+250.0",Conductor Organización,"NOTA: Se entenderá por marchas ciclistas organizadas aquellas actividades de más de 50 ciclistas, estando regulado, tanto el control y orden de la marcha, como las obligaciones de los participantes, así como las condiciones de circulación y comportamiento de
+aquellos en los artículos","
+
+
+CARENCIA AUT. PARA CIRCULAR"
+"
+
+
+
+
+
+CIR LSV","
+
+
+
+
+
+055
+
+070","
+
+
+
+
+
+1
+
+1","
+
+
+
+
+
+
+5C","
+
+
+
+
+
+
+0","
+
+
+
+
+
+Muy grave 077.-
+G)","CELEBRAR UNA MARCHA CICLISTA U OTRO EVENTO SIMILAR CON AUTORIZACIÓN SIN MANTENER DURANTE SU DESARROLLO LOS REQUISITOS EXIGIDOS PARA SU OTORGAMIENTO. (DESCRIBIENDO A CONTINUACIÓN LOS DISTINTOS INCUMPLIMIENTOS DE LAS CONDICIONES INCLUIDAS EN SUDÍA EN DICHA AUTORIZACIÓN Y, SANCIONANDO POR DICHA CONDUCTA AL PROPIO
+ORGANIZADOR.)","
+
+
+
+
+
+500.0
+
+250.0",Organización,"
+
+
+
+
+
+NOTA: Se entiende que coincidirá con la persona que solicitó en su día la autorizacón.","
+
+
+
+
+
+CARENCIA AUT. PARA CIRCULAR"
+"
+
+CIR LSV","
+
+055
+
+022","
+
+2
+
+5","
+
+
+5A","
+
+
+6","
+
+Muy grave 077.-
+G)","ENTABLAR UNA COMPETICIÓN DE VELOCIDAD EN LA VÍA PÚBLICA O DE USO PÚBLICO SIN ESTAR DEBIDAMENTE ACOTADA LA MISMA POR LA AUTORIDAD
+                                                                                                                          COMPETENTE	","
+
+500.0
+
+250.0",Conductor,,"
+
+
+CONDUCC. TEMERARIA"
+"
+
+
+
+CIR LSV","
+
+
+
+056
+
+023","
+
+
+
+1
+
+1","
+
+
+
+
+5A","
+
+
+
+
+4","
+
+
+
+Grave 076.- C)","
+
+NO CEDER EL PASO EN INTERSECCIÓN SEÑALIZADA, OBLIGANDO AL CONDUCTOR DE OTRO VEHÍCULO QUE CIRCULA CON PRIORIDAD A FRENAR O MANIOBRAR BRUSCAMENTE","
+
+
+
+200.0
+
+100.0",Conductor,"NOTA: En las intersecciones la preferencia de paso se verificará siempre ateniéndose a la señalización que la regule. A tales efectos, habrá de respetarse lo ordenado por un AGENTE,(art. 143 RGCirc.) así como por un SEMÁFORO (art. 146 RGCirc.), o por una SEÑAL DE PRIORIDAD
+(arts. 149 y 151 RGCirc.) o SEÑAL DE CEDA EL PASO o STOP (arts.
+151 y 169 RGcirc.)","
+
+
+
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+056
+
+023","
+
+2
+
+1","
+
+
+5A","
+
+
+4","
+
+Grave 076.- C)","NO CEDER EL PASO EN
+INTERSECCIÓN REGULADA POR UN AGENTE DE LA CIRCULACIÓN, OBLIGANDO AL CONDUCTOR DE OTRO VEHÍCULO QUE CIRCULA CON PRIORIDAD A FRENAR O MANIOBRAR BRUSCAMENTE","
+
+200.0
+
+100.0",Conductor,,"
+
+
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+056
+
+023","
+
+3
+
+1","
+
+
+5A","
+
+
+4","
+
+Grave 076.- C)","NO CEDER EL PASO EN
+INTERSECCIÓN REGULADA POR SEMÁFOROS, OBLIGANDO AL CONDUCTOR DE OTRO VEHÍCULO QUE CIRCULA CON PRIORIDAD A FRENAR O MANIOBRAR BRÚSCAMENTE","
+
+200.0
+
+100.0",Conductor,,"
+
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+056
+
+023","
+
+5
+
+1","
+
+
+5A","
+
+
+4","
+
+Grave 076.- L)","NO CEDER EL PASO EN
+INTERSECCIÓN REGULADA CON SEÑAL DE CEDA EL PASO, OBLIGANDO AL CONDUCTOR DE OTRO VEHÍCULO QUE CIRCULA CON PRIORIDAD A FRENAR O MANIOBRAR BRUSCAMENTE","
+
+200.0
+
+100.0",Conductor,,"
+
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+056
+
+023","
+
+5
+
+1","
+
+
+5B","
+
+
+4","
+
+Grave 076.- L)","NO CEDER EL PASO EN
+INTERSECCIÓN REGULADA CON SEÑAL DE DETENCIÓN OBLIGATORIA, OBLIGANDO AL CONDUCTOR DE OTRO VEHÍCULO QUE CIRCULA CON PRIORIDAD A FRENAR O MANIOBRAR BRUSCAMENTE
+                                                                                                                                 (STOP)	","
+
+200.0
+
+100.0",Conductor,,"
+
+
+
+STOP"
+CIR LSV,"
+057
+
+023","
+1-A
+
+2","
+
+5B","
+
+4","
+Grave 076.- C)","CIRCULAR POR UNA VÍA SIN PAVIMENTAR SIN CEDER EL PASO A OTRO VEHÍCULO QUE CIRCULA POR VÍA
+PAVIMENTADA","
+200.0
+
+100.0",Conductor,,"
+CEDA EL PASO"
+"CIR
+
+LSV","057
+
+023","1-B
+
+2","
+5B","
+4",Grave 076.- C),NO RESPETAR LA PRIORIDAD DE PASO DE UN VEHÍCULO QUE CIRCULA POR RAÍLES,"200.0
+
+100.0",Conductor,,"
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+057
+
+023","
+
+1-C
+
+2","
+
+
+5C","
+
+
+4","
+
+Grave 076.- C)","
+ACCEDER A UNA GLORIETA SIN RESPETAR LA PREFERENCIA DE PASO DE UN VEHÍCULO QUE CIRCULA POR LA MISMA","
+
+200.0
+
+100.0",Conductor,"NOTA: En defecto de señal que regule la preferencia de paso, el conductor está obligado a cederlo a los vehículos que se aproximen por su derecha, salvo aquellos supuestos contemplados en los
+códigos-precepto de este artículo.","
+
+CEDA EL PASO"
+CIR LSV,"
+057
+
+023","
+1-D
+
+3","
+
+5D","
+
+4","
+Grave 076.- C)","ACCEDER A UNA AUTOPISTA O AUTOVÍA SIN RESPETAR LA PREFERENCIA DE PASO DE UN VEHÍCULO QUE CIRCULA
+POR LA MISMA","
+200.0
+
+100.0",Conductor,,"
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+057
+
+023","
+
+1
+
+2","
+
+
+5A","
+
+
+4","
+
+Grave 076.- C)","
+NO CEDER EL PASO EN UNA INTERSECCIÓN A UN VEHÍCULO QUE SE APROXIMA POR SU DERECHA","
+
+200.0
+
+100.0",Conductor,"NOTA: En defecto de señal que regule la preferencia de paso, el conductor está obligado a cederlo a los vehículos que se aproximen por su derecha, salvo aquellos supuestos contemplados en los
+códigos-precepto de este artículo.","
+
+
+CEDA EL PASO"
+"
+
+
+CIR LSV","
+
+
+058
+
+026","
+
+
+1
+
+1","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- C)","
+NO MOSTRAR CON SUFICIENTE ANTELACIÓN, POR SU FORMA DE CIRCULAR Y ESPECIALMENTE CON LA REDUCCIÓN PAULATINA DE LA VELOCIDAD, QUE VA A CEDER EL PASO EN UNA INTERSECCIÓN","
+
+
+200.0
+
+100.0",Conductor,"NOTA: Deberá describirse, sucintamente, la forma de circular (alta velocidad, acelerando, etc) y la forma de detenerse (ruido, desplazamiento de gravilla, brusquedad, etc) y la reacción que produjo en el conductor que circulaba por la vía preferente (frenazo, maniobra evasiva al
+volante, etc).","
+
+
+CEDA EL PASO"
+"
+
+
+CIR LSV","
+
+
+059
+
+026","
+
+
+1
+
+2","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- C)","
+
+ENTRAR CON EL VEHÍCULO RESEÑADO EN UNA INTERSECCIÓN, QUEDANDO DETENIDO DE FORMA QUE IMPIDE U OBSTRUYE LA CIRCULACIÓN TRANSVERSAL","
+
+
+200.0
+
+100.0",Conductor,"NOTA: Ningún conductor, aunque tenga la prioridad de paso en esos momentos, deberá penetrar con su vehículo en una intersección o en un paso para peatones o para ciclistas si la situación de la circulación es tal que, previsiblemente, pueda quedar detenido de forma que impida u
+obstruya la circulación transversal.","
+
+
+CEDA EL PASO"
+"
+
+CIR LSV","
+
+059
+
+026","
+
+1
+
+2","
+
+
+5B","
+
+
+0","
+
+Grave 076.- C)","ENTRAR CON EL VEHÍCULO RESEÑADO EN UN PASO DE
+PEATONES o ciclistas, QUEDANDO DETENIDO DE FORMA QUE IMPIDE U OBSTRUYE LA CIRCULACIÓN
+TRANSVERSAL","
+
+200.0
+
+100.0",Conductor,,"
+
+CEDA EL PASO"
+"
+
+
+
+
+CIR LSV","
+
+
+
+
+059
+
+026","
+
+
+
+
+2
+
+3","
+
+
+
+
+
+5A","
+
+
+
+
+
+0","
+
+
+
+
+Grave 076.- C)","TENER DETENIDO EL VEHÍCULO EN INTERSECCIÓN REGULADA POR SEMÁFORO, OBSTACULIZANDO LA CIRCULACIÓN, Y NO SALIR DE AQUELLA LO ANTES POSIBLE, PUDIENDO HACERLO (TODO CONDUCTOR QUE TENGA DETENIDO SU VEHICULO EN UNA INTERSECCIÓN REGULADA POR SEMÁFORO Y LA SITUACIÓN DEL MISMO CONSTITUYA OBSTÁCULO
+                                                                                                                 PARA LA CIRCULACIÓN, )	","
+
+
+
+
+200.0
+
+100.0",Conductor,"
+
+
+NOTA: deberá salir de aquella sin esperar a que se permita la circulación en la dirección que se propone tomar,siempre que al hacerlo no entorpezca la marcha de los demás usuarios que avancen en el sentido permitido.","
+
+
+
+
+
+CEDA EL PASO"
+"
+
+
+CIR LSV","
+
+
+060
+
+023","
+
+
+1
+
+3","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- C)","
+
+NO RESPETAR LA PRIORIDAD DE PASO DE OTRO VEHÍCULO QUE HA ENTRADO PRIMERO EN UN TRAMO ESTRECHO NO SEÑALIZADO AL EFECTO","
+
+
+200.0
+
+100.0",Conductor,"NOTA: Todo conductor, independientemente del vehículo que conduzca, tendrá que reconocer el derecho de preferencia de paso al que hubiese entrado primero en un tramo de obras o estrechamiento. En caso de duda sobre dicha circunstancia, tendrá la preferencia el vehiculo con mayores
+dificultades de maniobra.","
+
+
+PRIORIDAD DE PASO"
+"
+
+CIR LSV","
+
+060
+
+023","
+
+2
+
+3","
+
+
+5A","
+
+
+0","
+
+Grave 076.- C)","CIRCULAR CON UN VEHÍCULO, CABALLERÍAS O GANADO POR SITIO DISTINTO DEL SEÑALADO AL EFECTO, EN UNA VÍA DONDE SE ESTÁN EFECTUANDO OBRAS DE
+REPARACIÓN","
+
+200.0
+
+100.0",Conductor,"NOTA: Cuando la regla anterior hubiera de aplicarse a vehículos del mismo tipo, la preferencia se decidirá por el que tuviera que dar marcha atrás mayor distancia y, en caso de igualdad, por el que tuviera
+mayor anchura longitud o MMA.","
+
+PRIORIDAD DE PASO"
+"
+
+
+CIR LSV","
+
+
+060
+
+023","
+
+
+4
+
+3","
+
+
+
+5A","
+
+
+
+0","
+
+
+Grave 076.- C)","NO COLOCARSE DETRÁS DE OTRO VEHÍCULO QUE SE ENCUENTRA DETENIDO, ESPERANDO PARA PASAR, ANTE UNA OBRA DE REPARACIÓN DE LA VÍA, INTENTANDO SUPERAR LA MISMA SIN SEGUIR AL VEHÍCULO QUE TIENE
+DELANTE","
+
+
+200.0
+
+100.0",Conductor,,"
+
+
+PRIORIDAD DE PASO"

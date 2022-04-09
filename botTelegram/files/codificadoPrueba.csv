@@ -1,0 +1,9 @@
+TEXTO,ART.,APART.,OPC.,TIPO,COMP.,HECHO_DENUNCIADO,CUANTIA,PUNT.,
+RGC LSV,3         9,1           2,2A        --,MG,A,Conducir de forma manifiestamente temeraria.(Describir con detalle la conducta merecedora del calificativo de temeraria).,450 ,6,
+"RGC LSV,3           9,1            2,2 B      --,G,A,""Conducir de forma negligente creando un riesgo para otros usuarios de la via.(Debera detallarse, de modo sucinto, la conducta y el riesgo que implica)."",150 ,4,"
+"RGC LSV,3         9,1             2, --     2C,G,A,Conducir de forma negligente. (Debera detallarse la conducta). (*),150 .,,
+RGC,4,2,A,L,A,""Arrojar, depositar o abandonar sobre la via, objetos o materiales que puedan entorpecer la libre circulacion, parada o estacionamiento, la hagan peligrosa o la deterioren.(Debera especificar la conducta)."",50 ,,"
+RGC,19,1,B,L,A,Utilizar laminas adhesivas o cortinillas sin llevar dos espejos retrovisores exteriores.,75 ,,
+RGC,19,2, ,L,T,Utilizar vidrios tintados o coloreados no homologados.,75 ,,
+RGC,40,1,,L,A,Circular por un carril reversible sin llevar encendio el alumbrado de cruce.,90 ﾀ,,
+RGC           LSV,40     16,2              --,2A        --,MG,A,Circular por un carril reversible en sentido contrario al estipulado.,450 ,6,
