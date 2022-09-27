@@ -1,0 +1,38 @@
+
+
+/* This view acts as a rendering template to render InitScript(and server-side Form's descriptor) in FormContainerBlock's client-side for Form[85f3c51a-bd26-47b2-a0b4-2443ceee96d5].
+TECHNOTE: all serverside (paths, dynamic values) of EPiServerForms will be transfered to client side here in this section. */
+(function initializeOnRenderingFormDescriptor() {
+    // each workingFormInfo is store inside epi.EPiServer.Forms, lookup by its FormGuid
+    var workingFormInfo = epi.EPiServer.Forms["85f3c51a-bd26-47b2-a0b4-2443ceee96d5"] = {
+        Id: "85f3c51a-bd26-47b2-a0b4-2443ceee96d5",
+        Name: "Tilbakemelding nb",
+        // whether this Form can be submitted which relates to the visitor's data (cookie, identity) and Form's settings (AllowAnonymous, AllowXXX)
+
+        SubmittableStatus : {"submittable":true,"message":""},        
+        ConfirmMessage : "",
+        ShowNavigationBar : true,
+        ShowSummarizedData : false,
+        
+        // serialize the dependency configuration of this form to clientside
+        DependenciesInfo : [{"fieldName":"__field_73708","action":{"displayName":"Vist","name":"EPiServer.Forms.Core.Internal.Dependency.ShowAction","order":1,"clientsideAction":"show"},"conditionCombination":"Any","conditions":[{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Ja"},{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Nei"}]},{"fieldName":"__field_73709","action":{"displayName":"Vist","name":"EPiServer.Forms.Core.Internal.Dependency.ShowAction","order":1,"clientsideAction":"show"},"conditionCombination":"Any","conditions":[{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Ja"},{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Nei"}]},{"fieldName":"__field_73710","action":{"displayName":"Vist","name":"EPiServer.Forms.Core.Internal.Dependency.ShowAction","order":1,"clientsideAction":"show"},"conditionCombination":"Any","conditions":[{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Ja"},{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Nei"}]},{"fieldName":"__field_73711","action":{"displayName":"Vist","name":"EPiServer.Forms.Core.Internal.Dependency.ShowAction","order":1,"clientsideAction":"show"},"conditionCombination":"Any","conditions":[{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Ja"},{"fieldName":"__field_73707","operator":"Equals","fieldValue":"Nei"}]}],
+        // keep all fieldName which are not satisfied the field dependency conditions
+        DependencyInactiveElements: [],
+
+        // Validation info, for executing validating on client side
+        ValidationInfo : [{"targetElementName":"__field_73707","targetElementId":"802ea65b-defe-4b7d-ab10-b490d8ba5dc6","validators":[{"type":"EPiServer.Forms.Implementation.Validation.RequiredValidator","description":null,"model":{"message":"Dette feltet er påkrevd.","validationCssClass":"ValidationRequired","additionalAttributes":{"required":"","aria-required":"true"}}}]}],
+        // Steps information for driving multiple-step Forms.
+        StepsInfo : {
+            Steps: [{"index":0,"attachedUrl":"","dependField":null,"dependCondition":null,"isActive":true,"attachedContentLink":"","dependValue":"","elementName":"__field_","guid":"00000000-0000-0000-0000-000000000000"}]
+        },
+        FieldsExcludedInSubmissionSummary: [],
+        ElementsInfo: {"__field_73707":{"type":"EPiServer.Forms.Implementation.Elements.ChoiceElementBlock","friendlyName":"Valg","customBinding":false},"__field_73708":{"type":"EPiServer.Forms.Implementation.Elements.ParagraphTextElementBlock","friendlyName":"Header","customBinding":false},"__field_73709":{"type":"EPiServer.Forms.Implementation.Elements.TextareaElementBlock","friendlyName":"Melding","customBinding":false},"__field_73710":{"type":"EPiServer.Forms.Implementation.Elements.ParagraphTextElementBlock","friendlyName":"Disclaimer","customBinding":false},"__field_73711":{"type":"EPiServer.Forms.Implementation.Elements.SubmitButtonElementBlock","friendlyName":"Send inn-knapp","customBinding":false}},
+        DataSubmitController: "/Svv.Forms"
+        
+    };
+    
+    /// TECHNOTE: Calculation at FormInfo level, and these values will be static input for later processing.
+    workingFormInfo.StepsInfo.FormHasNoStep_VirtualStepCreated = true;  // this FLAG will be true, if Editor does not put any FormStep. Engine will create a virtual step, with empty GUID
+    workingFormInfo.StepsInfo.FormHasNothing = false;  // this FLAG will be true if FormContainer has no element at all
+    workingFormInfo.StepsInfo.AllStepsAreNotLinked = true;  // this FLAG will be true, if all steps all have contentLink=="" (emptyString)
+})();

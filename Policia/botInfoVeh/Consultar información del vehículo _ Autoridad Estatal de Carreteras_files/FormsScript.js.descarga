@@ -1,0 +1,10 @@
+﻿(function ($) {
+    $$epiforms(document).ready(function () {
+
+        $$epiforms(".EPiServerForms").on("formsStartSubmitting", function (event) {
+            //Add honeypot data to Forms postback data
+            event.formData.append("token", $("input[name='token']").val());
+            event.formData.append("comment", $("input[name='comment']").val());
+        });
+    });
+})($$epiforms || $);

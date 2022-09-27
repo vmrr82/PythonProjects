@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3d0665a675e14d75a80f4737ebb0e802 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_3d0665a675e14d75a80f4737ebb0e802" ></div>
+        
+</body>
+<script>    
+    
+            var map_3d0665a675e14d75a80f4737ebb0e802 = L.map(
+                "map_3d0665a675e14d75a80f4737ebb0e802",
+                {
+                    center: [39.528454368023205, 2.5078566859760225],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_58f6392bbc7b402896f143592b95959a = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            var marker_b282e2e446fb4be990990f257b397c8a = L.marker(
+                [39.5430383538804, 2.59215175488034],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_b282e2e446fb4be990990f257b397c8a.bindTooltip(
+                `<div>
+                     CR ANDRATX, 7800, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7c96afa503e54ba7ab31178a272e15a8 = L.marker(
+                [39.525955, 2.500606],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_7c96afa503e54ba7ab31178a272e15a8.bindTooltip(
+                `<div>
+                     CL PUIG DE L'OFRE, 3, GALATZO
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_51db9ae919ff466a826444fab91e5575 = L.marker(
+                [39.536543, 2.574182],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_51db9ae919ff466a826444fab91e5575.bindTooltip(
+                `<div>
+                     CR ANDRATX, 23, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_4e17002fcbc846339b74f82759ff5e7e = L.marker(
+                [39.515459, 2.536005],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_4e17002fcbc846339b74f82759ff5e7e.bindTooltip(
+                `<div>
+                     CL PINZONS, 4, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_40bb33e8de2f4da4bbbcbc8fc8863913 = L.marker(
+                [39.5543666027344, 2.59621219704104],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_40bb33e8de2f4da4bbbcbc8fc8863913.bindTooltip(
+                `<div>
+                     CL ANDREU FERRET SOB, 1, BENDINAT
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0ddeddc3086849daba69d975941419bb = L.marker(
+                [41.1495, -8.6108],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_0ddeddc3086849daba69d975941419bb.bindTooltip(
+                `<div>
+                     PZ PORTALS, 4, PORTALS NOUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_711828c566614aaeb041b8689656458b = L.marker(
+                [39.523815, 2.539088],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_711828c566614aaeb041b8689656458b.bindTooltip(
+                `<div>
+                     CL PUNTA DES  CARREGADOR, 2, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a5ecd5e52f8848a095582475648599aa = L.marker(
+                [39.5430383538804, 2.59215175488034],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_a5ecd5e52f8848a095582475648599aa.bindTooltip(
+                `<div>
+                     CR ANDRATX, 7800, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_156ba2bf0e8c450ea3a7455ef223579e = L.marker(
+                [39.510425, 2.503279],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_156ba2bf0e8c450ea3a7455ef223579e.bindTooltip(
+                `<div>
+                     AV GOLF, 37, SANTA PONSA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_dbb4a0d68cc34d6194f8753e0f2c18e5 = L.marker(
+                [39.52552, 2.468513],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_dbb4a0d68cc34d6194f8753e0f2c18e5.bindTooltip(
+                `<div>
+                     AV MAR, 1, COSTA DE LA CALMA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_906d183f8eb94d19b0f23a698951cc91 = L.marker(
+                [40.449358, -1.280837],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_906d183f8eb94d19b0f23a698951cc91.bindTooltip(
+                `<div>
+                     CR CIRCUNVALACION, 36, PAGUERA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_f36fed1e1a6e46e7b041df971aff1592 = L.marker(
+                [39.516708, 2.488875],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_f36fed1e1a6e46e7b041df971aff1592.bindTooltip(
+                `<div>
+                     GV PUIG DES CASTELLET, 7, SANTA PONSA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_288d44e092e54d7e95f7340ab1a28198 = L.marker(
+                [39.522047, 2.536874],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_288d44e092e54d7e95f7340ab1a28198.bindTooltip(
+                `<div>
+                     CL GERMANS MONTCADA, 2, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bb4e587d185646089507502e3ed89823 = L.marker(
+                [39.519949, 2.487519],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_bb4e587d185646089507502e3ed89823.bindTooltip(
+                `<div>
+                     CL RIU SIL, 23, SANTA PONSA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_c9797bf73c1b4981898f798eacf2a34d = L.marker(
+                [39.578222, 2.471197],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_c9797bf73c1b4981898f798eacf2a34d.bindTooltip(
+                `<div>
+                     CL MAJOR, 31, ES CAPDELLA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_58062a0671bd49548b9c93243553003c = L.marker(
+                [39.537346, 2.575317],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_58062a0671bd49548b9c93243553003c.bindTooltip(
+                `<div>
+                     CR ANDRATX, 21, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_922a8e115da04e628bdec62e7714fd93 = L.marker(
+                [39.50872, 2.529893],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_922a8e115da04e628bdec62e7714fd93.bindTooltip(
+                `<div>
+                     AV PALMERES, 13, MAGALUF
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_efc36e9101684e56963933de60e70c20 = L.marker(
+                [39.539561, 2.572868],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_efc36e9101684e56963933de60e70c20.bindTooltip(
+                `<div>
+                     CL VICTORIA, 13, PORTALS NOUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7906e933d9314267907f4dc18b8f0831 = L.marker(
+                [39.531421, 2.568095],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_7906e933d9314267907f4dc18b8f0831.bindTooltip(
+                `<div>
+                     CL ANTONI M. ALCOVER, 2, COSTA DEN BLANES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_6021185f950347d780cbdbc47667352a = L.marker(
+                [39.567238, 2.506597],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_6021185f950347d780cbdbc47667352a.bindTooltip(
+                `<div>
+                     CL JAIME III, 13, CALVIA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_80a735a9e7304214b3400c6c01baab52 = L.marker(
+                [39.495689, 2.500952],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_80a735a9e7304214b3400c6c01baab52.bindTooltip(
+                `<div>
+                     CL CAN FERRER, 44, SON FERRER
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_1411488aae3f4320ae401717c54f5ce0 = L.marker(
+                [39.521783, 2.537421],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_1411488aae3f4320ae401717c54f5ce0.bindTooltip(
+                `<div>
+                     PS MAR, 30, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_bdc2d49221864019a0112f4b6fd13139 = L.marker(
+                [39.517351, 2.486402],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_bdc2d49221864019a0112f4b6fd13139.bindTooltip(
+                `<div>
+                     AV REI JAUME I, 113, SANTA PONSA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_e1292baa68f04edb8811e32d77a5c2d8 = L.marker(
+                [39.496834, 2.505297],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_e1292baa68f04edb8811e32d77a5c2d8.bindTooltip(
+                `<div>
+                     CL CAN FERRER, 12, SON FERRER
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_ded8da96040b4916822a1e2572a62a71 = L.marker(
+                [39.517171, 2.488128],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_ded8da96040b4916822a1e2572a62a71.bindTooltip(
+                `<div>
+                     AV REI JAUME I, 122, SANTA PONSA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_2bb4661b28194a56b2508a675294fe03 = L.marker(
+                [39.532127, 2.547279],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_2bb4661b28194a56b2508a675294fe03.bindTooltip(
+                `<div>
+                     CL SARAGOSSA, 1, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_aa926357681e4b7385bb4582264a4338 = L.marker(
+                [39.540484, 2.591132],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_aa926357681e4b7385bb4582264a4338.bindTooltip(
+                `<div>
+                     PS ILLETES, 34, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_724cc539025940a59aab3e60ee2acca1 = L.marker(
+                [39.524571, 2.474581],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_724cc539025940a59aab3e60ee2acca1.bindTooltip(
+                `<div>
+                     CL CENTRE, 1, COSTA DE LA CALMA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_488ce002583e4ef4a3e08cb9ca7a7b33 = L.marker(
+                [39.489663, 2.481075],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_488ce002583e4ef4a3e08cb9ca7a7b33.bindTooltip(
+                `<div>
+                     CL GRAN VIA, 17, EL TORO
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cfb96be8628443a48051f8c5301d27e7 = L.marker(
+                [39.536291, 2.45801],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_cfb96be8628443a48051f8c5301d27e7.bindTooltip(
+                `<div>
+                     AV PEGUERA, 81, PAGUERA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_660ee31cdc8644fc9f8a6a9b20ed92bc = L.marker(
+                [39.537271, 2.444372],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_660ee31cdc8644fc9f8a6a9b20ed92bc.bindTooltip(
+                `<div>
+                     AV PEGUERA, 24, PAGUERA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_0b2a705e73fc4dcc9c5cd0a4c4aaa1e0 = L.marker(
+                [39.520137, 2.536522],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_0b2a705e73fc4dcc9c5cd0a4c4aaa1e0.bindTooltip(
+                `<div>
+                     PS MAR, 44, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_62eb284dac574211849d312accdbd093 = L.marker(
+                [39.518768, 2.534839],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_62eb284dac574211849d312accdbd093.bindTooltip(
+                `<div>
+                     CL PINZONS, 67, PALMANOVA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_52624cb4d52543698794a210ae91549f = L.marker(
+                [39.547309, 2.594651],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_52624cb4d52543698794a210ae91549f.bindTooltip(
+                `<div>
+                     PZ CONQUESTA, 6, CAS CATALA-SES ILLETES
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_56b292d9866d4b959fbb16474d7ffb11 = L.marker(
+                [39.501258, 2.534121],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_56b292d9866d4b959fbb16474d7ffb11.bindTooltip(
+                `<div>
+                     AV BADIA DE PALMA, 1, MAGALUF
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_3383942c236b4c92a92ae8156ff95a33 = L.marker(
+                [39.53905, 2.575415],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_3383942c236b4c92a92ae8156ff95a33.bindTooltip(
+                `<div>
+                     CL SEGUI, 23, PORTALS NOUS
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_95b3b9228ddd4951a561b83ed1e686de = L.marker(
+                [39.580347, 2.47065],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_95b3b9228ddd4951a561b83ed1e686de.bindTooltip(
+                `<div>
+                     CL AMETLLERS, 19, ES CAPDELLA
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_deaaf7502d914261a5582cf490ba6eb1 = L.marker(
+                [39.499823, 2.501155],
+                {}
+            ).addTo(map_3d0665a675e14d75a80f4737ebb0e802);
+        
+    
+            marker_deaaf7502d914261a5582cf490ba6eb1.bindTooltip(
+                `<div>
+                     CL ALIGA, 50, SON FERRER
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
