@@ -3,8 +3,8 @@ import os,time
 
 
 contador = 0
-while contador <10:
-    numerosTablas = [2,3,4]
+while contador <5:
+    numerosTablas = [2,3,4,5,6]
     numeros = [2,3,4,5,6,7,8,9,10]
     
     num1 = random.choice(numerosTablas)
@@ -21,7 +21,6 @@ while contador <10:
         contador +=1
         time.sleep(2)
         print(os.system('cls'))
-        print('puedes usar yutube')
     else:
         print('lo siento Mario, no es correcto, el resultado es ' + str(operacion))    
         contador -=1
