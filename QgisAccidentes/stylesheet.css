@@ -1,0 +1,275 @@
+html{
+
+   background-color: #1a4775;
+   background-size: cover;
+   font-size: 16px;
+    
+}
+
+@media screen and (min-width: 10rem) {
+    .container {
+      margin: 1em 2em;
+      column-count: 1;
+      display: flex;
+    }
+  }
+
+#_dash-app-content{
+
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.top{
+    
+    display: inline-flex;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 1100px;
+    height: 100px;
+    
+}
+
+h1{
+
+    font-size: 3rem;
+    width: auto;
+    display: inline-block ;
+    margin-left: 120px;
+    margin-right: 50px;
+    
+}
+
+.header{
+
+    height: 20px;
+}
+
+
+.bloqIcon{
+
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+.bloqTotal, .bloqPrimero, .bloqUltimo, .bloqImplicados, .bloqDiario {
+
+    background-color: rgb(8, 34, 85);
+    margin-bottom: 5px;
+    margin-right: 10px;
+    border-radius: 8px;
+    text-align: center;
+    color: aliceblue;
+    display: inline-block;
+        
+}
+
+
+.bloqTotal:hover, .bloqPrimero:hover, .bloqUltimo:hover,.bloqDiario:hover , .bloqImplicados:hover{
+
+    background-color: rgb(22, 56, 123);
+}
+
+
+.numeroMaxDiario, .numeroMaxImplicados, .numFecha, .numTotal{
+
+    font-size: 1.5em;
+    margin-top: 0px;
+    font-weight: bold;
+
+}
+
+.contact-button{
+
+    background-image: url(/assets/contact-icon.png);
+    background-color: transparent;
+    border: transparent;
+    width: 31px;
+    height: 31px;
+    margin-left: 40px;
+
+}
+.contact-button:hover{
+
+    width: 33px;
+    height: 33px;
+}
+#mapaCallback{
+
+    width: 50%;
+}
+.rowOne{
+
+    /*background-color:rgb(8, 34, 85);*/
+    margin-bottom: 10px;
+    width: 1050px;
+    max-width: 100%;
+    display: contents;
+}
+.col{
+
+    margin-left: 5px;
+    display: flex;
+}
+
+.dash-spreadsheet-menu{
+
+    margin-top: 10px;
+}
+
+.radioItem{
+
+    font-size: 16px;
+    margin-top: 10px;
+    color:white;
+    border-color:  rgb(43, 30, 117);
+    margin-left: 80px;
+    width: 300px;
+    border-radius: 5px;
+    
+}
+
+.mapa{
+
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-block;  
+  
+  }
+
+  .figGraphs{
+    max-width: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+
+
+
+.js-plotly-plot .plotly .modebar {
+      left: 50%;
+      transform: translateX(-50%);
+}
+
+
+
+.mainTable{
+    
+    margin-left: 10px;
+    margin-top: 10px;
+    display:inline-block;
+    
+}
+
+.secondFigGraphs{
+    /*background-color:rgb(8, 34, 85);*/
+    
+    margin-top: 40px;
+    margin-left: 10px;
+    width: 400px;
+}
+
+
+#totalFilter{
+
+    color: white;
+    font-size: 18px;
+    margin-left: 700px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 50px;
+    
+}
+
+#clear_filter{
+    margin-top: 10px;
+    margin-left: 700px;
+    margin-bottom: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:rgb(22, 56, 123);
+    border-radius: 8px;
+    border-width: 0;
+    color: #e7e1e1;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    padding: 10px 12px;
+    padding-bottom: 10px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    display: inline-block;
+
+}
+
+#clear_filter:hover{
+   
+    background-color:rgb(25, 69, 158);
+}
+
+
+
+.dash-spreadsheet-menu{
+
+    position: relative;
+    float: top;
+}
+
+.dash-spreadsheet-container .dash-spreadsheet .dash-freeze-top .dash-fill-width{
+   
+    float:right;
+
+}
+
+
+.previous-next-container{
+    
+    position: relative;
+    float: left;
+    
+} 
+
+.previous-next-container .page-number .last-page{
+
+    background-color: white;
+    font-size: 10pt;
+    font-family: monospace;
+    padding: 1px 2px;
+    border-bottom: solid lightgrey 1px;
+    width: 4ch;
+    height: 2.5ch;
+    display: flex;
+    margin-top: 10px;
+        
+}
+.dash-table-container{
+    font-size: 13px;
+    display: inline-block;
+}
+.column-header--select{
+
+    padding-right: 3px;
+    
+}
+
+.first-page, .next-page, .previous-page, .last-page, .current-page{
+
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    
+}
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner input:not([type=radio]):not([type=checkbox]) {
+
+    
+}
