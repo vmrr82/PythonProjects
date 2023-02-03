@@ -1,0 +1,285 @@
+html{
+
+   background-color: #1a4775;
+   background-size: cover;
+   font-size: 1em;
+   
+}
+
+
+
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+
+H3{
+    font-size: 1em;
+    display: contents;
+}
+
+.header{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    row-gap: 1%;
+    margin-left: 2%;
+    margin-top: 2%;  
+}
+
+.bloqTotal{
+
+    width: 15em;
+    display: block;
+   
+}
+
+.bloqPrimero{
+
+    width: 15em;
+    display: block;
+}
+
+.bloqUltimo{
+   
+    width: 15em;
+    display: block;
+   
+}
+
+.bloqDiario{
+    
+    width: 15em;
+    display: block;
+    
+}
+
+.bloqImplicados{
+    width: 15em;
+    display: block;
+}
+
+.bloqIcon{
+    
+    width: 15em;
+    display: block;
+}
+
+.bloqTotal, .bloqPrimero, .bloqUltimo, .bloqImplicados, .bloqDiario {
+
+    background-color: rgb(8, 34, 85);
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1em;
+    color: aliceblue;
+    
+    
+}
+
+
+.bloqTotal:hover, .bloqPrimero:hover, .bloqUltimo:hover,.bloqDiario:hover , .bloqImplicados:hover{
+
+    background-color: rgb(22, 56, 123);
+}
+
+
+.numeroMaxDiario, .numeroMaxImplicados, .numFecha, .numTotal{
+
+    font-size: 1.3em;
+    font-weight: bold;
+
+}
+
+.rowOne{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    justify-content:flex-start;
+    row-gap: 1%;
+}
+
+.mapa{
+    max-width: 100%;
+    margin-top: 1%;
+    margin-bottom: 5%;
+    display:-ms-inline-grid;
+      
+}
+
+
+
+.dash-spreadsheet-menu{
+
+    margin-top: 10px;
+}
+
+.radioItem{
+
+    font-size: 16px;
+    margin-top: 10px;
+    color:white;
+    border-color:  rgb(43, 30, 117);
+    margin-left: 80px;
+    border-radius: 5px;
+    
+    
+}
+
+.figGraphs{
+    
+    max-width: 100%;
+    margin-left: 1%;
+    margin-top: 2%;
+    display: -ms-inline-grid;
+
+}
+
+
+
+.js-plotly-plot .plotly .modebar {
+
+      left: 50%;
+      transform: translateX(-50%);
+}
+
+
+.rowTwo{
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    justify-content: flex-start;
+    
+}
+
+
+
+.mainTable{
+    max-width: 100%;
+    display: -ms-inline-grid;
+    
+    
+}
+
+.secondFigGraphs{
+
+    max-width: 100%;
+    display: -ms-inline-grid;
+    margin-left: 1%;
+    
+    
+}
+
+.rowThree{
+
+    display:inline-flex;
+    flex-wrap: wrap;
+    flex-basis: 100%;
+    justify-content: flex-start;
+}
+
+#totalFilter{
+    
+    color: white;
+    font-size: 18px;
+    margin-left: 700px;
+    height: 20px;
+    margin-right: 50px;
+    
+}
+#filterButton{
+
+    
+    display: flex;
+}
+#clear_filter{
+    
+    margin-bottom: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color:rgb(22, 56, 123);
+    border-radius: 8px;
+    border-width: 0;
+    color: #e7e1e1;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    list-style: none;
+    padding: 10px 12px;
+    padding-bottom: 10px;
+    text-align: center;
+    transition: all 200ms;
+    vertical-align: baseline;
+    white-space: nowrap;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    
+
+}
+
+#clear_filter:hover{
+   
+    background-color:rgb(25, 69, 158);
+}
+
+.dash-spreadsheet-menu{
+
+    position: relative;
+    float: top;
+}
+
+.dash-spreadsheet-container .dash-spreadsheet .dash-freeze-top .dash-fill-width{
+   
+    float:right;
+
+}
+
+
+.previous-next-container{
+    
+    position: relative;
+    float: left;
+    
+} 
+
+.previous-next-container .page-number .last-page{
+
+    background-color: white;
+    font-size: 10pt;
+    font-family: monospace;
+    padding: 1px 2px;
+    border-bottom: solid lightgrey 1px;
+    width: 4ch;
+    height: 2.5ch;
+    display: flex;
+    margin-top: 10px;
+        
+}
+.dash-table-container{
+    font-size: 13px;
+    display: inline-block;
+}
+.column-header--select{
+
+    padding-right: 3px;
+    
+}
+
+.first-page, .next-page, .previous-page, .last-page, .current-page{
+
+    cursor: pointer;
+    border-radius: 10px;
+    display: flex;
+    
+}
+
+.col {
+    flex-basis: calc(33.33% - 20px);
+    margin: 10px;
+  }
