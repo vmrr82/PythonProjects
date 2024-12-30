@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accident Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>VISOR DE ACCIDENTES</h1>
+    <div class="container">
+        <div id="map" style="height: 500px;"></div>
+        <form id="accident-form">
+            <label for="fecha">Fecha:</label>
+            <input type="date" id="fecha" name="fecha" required><br>
+            <label for="hora">Hora:</label>
+            <input type="time" id="hora" name="hora" required><br>
+            <label for="ubicacion">Ubicación:</label>
+            <input type="text" id="ubicacion" name="ubicacion" required><br>
+            <label for="gravedad">Gravedad:</label>
+            <select id="gravedad" name="gravedad" required>
+                <option value="SIN HERIDOS">SIN HERIDOS</option>
+                <option value="HERIDO -24 HORAS">HERIDO -24 HORAS</option>
+                <option value="HERIDO +24 HORAS">HERIDO +24 HORAS</option>
+                <option value="FALLECIDO">FALLECIDO</option>
+            </select><br>
+            <label for="tipo_vehiculos">Tipo de Vehículo:</label>
+            <select id="tipo_vehiculos" name="tipo_vehiculos" required>
+                <option value="TURISMO">TURISMO</option>
+                <option value="CAMIÓN">CAMIÓN</option>
+                <option value="AUTOBÚS">AUTOBÚS</option>
+                <option value="MOTOCICLETA">MOTOCICLETA</option>
+                <option value="CICLOMOTOR">CICLOMOTOR</option>
+                <option value="VMP">VMP</option>
+                <option value="PEATÓN">PEATÓN</option>
+            </select><br>
+            <label for="victimas">Víctimas:</label>
+            <input type="number" id="victimas" name="victimas" required><br>
+            <label for="coordenadas">Coordenadas:</label>
+            <input type="text" id="coordenadas" name="coordenadas" readonly required><br>
+            <button type="submit">Agregar Accidente</button>
+            <button type="button" id="cancelar">Cancelar</button>
+        </form>
+    </div>
+    <div class="table-container">
+        <h2>Registro de Accidentes</h2>
+        <div class="table-wrapper">
+            <table id="accident-table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Fecha</th>
+                        <th>Hora</th>
+                        <th>Ubicación</th>
+                        <th>Gravedad</th>
+                        <th>Tipo de Vehículo</th>
+                        <th>Víctimas</th>
+                        <th>Coordenadas</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Los registros se agregarán aquí dinámicamente -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+</body>
+</html>
