@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    display: flex;
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+#controls {
+    width: 20%;
+    height: 600px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-right: 2px solid #4CAF50;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    overflow-x: scroll;
+}
+
+#map {
+    height: 100%;
+    width: 55%;
+    border: 2px solid #4CAF50;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#info {
+    width: 25%;
+    height: 600px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 2px solid #4CAF50;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    overflow-x: scroll;
+}
+
+h1, h2 {
+    margin: 0;
+    padding: 10px 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+}
+
+th {
+    text-align: left;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #f2f2f2;
+    padding: 8px;
+}
+
+td {
+    padding: 8px;
+}
+
+input[type="file"], select {
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#legend {
+    margin-top: 20px;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.legend-color {
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+}
+
+#left-scrollbar::-webkit-scrollbar, #right-scrollbar::-webkit-scrollbar {
+    width: 10px;
+}
+
+#left-scrollbar::-webkit-scrollbar-thumb, #right-scrollbar::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+
+#left-scrollbar::-webkit-scrollbar-thumb:hover, #right-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
